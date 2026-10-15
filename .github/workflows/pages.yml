@@ -1,0 +1,52 @@
+# Builds the iPhone home-screen website (web/build-site.mjs -> site/) and publishes it on GitHub Pages:
+# https://<user>.github.io/<repo>/  (one-time setup: Settings -> Pages -> Source: "GitHub Actions")
+name: Deploy website
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# one deploy at a time; a newer push waits instead of cancelling a deploy halfway
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v5
+
+      - name: Set up Node 22
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build the site
+        run: node web/build-site.mjs
+
+      - name: Upload the site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

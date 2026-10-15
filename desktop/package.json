@@ -1,0 +1,20 @@
+{
+  "name": "deadline-desktop",
+  "productName": "Deadline",
+  "version": "1.0.0",
+  "description": "Deadline student planner, packaged as a desktop app.",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "bash build.sh",
+    "test": "node --test test/canvas-api.test.js"
+  },
+  "devDependencies": {
+    "@electron/fuses": "2.1.3",
+    "@electron/packager": "20.3.0",
+    "@resvg/resvg-js": "2.6.2",
+    "electron": "44.7.0"
+  }
+}

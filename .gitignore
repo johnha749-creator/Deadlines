@@ -1,0 +1,5 @@
+# build output (the website is built by GitHub Actions; the laptop zips by desktop/build.sh)
+site/
+dist/
+node_modules/
+.DS_Store

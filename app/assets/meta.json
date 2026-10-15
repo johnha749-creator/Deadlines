@@ -1,0 +1,263 @@
+{
+  "wide": {
+    "w": 2400,
+    "h": 1350,
+    "image": "bg-wide.jpg",
+    "mask": "wind-wide.png",
+    "mask_size": [
+      640,
+      360
+    ],
+    "focus": {
+      "x": 0.5525,
+      "y": 0.42
+    },
+    "original_rect": {
+      "x": 0.342579,
+      "y": 0.0,
+      "w": 0.314843,
+      "h": 1.0
+    },
+    "petal_spawns": [
+      {
+        "x": 0.5806,
+        "y": 0.4989,
+        "r": 0.0366,
+        "weight": 0.1369
+      },
+      {
+        "x": 0.6571,
+        "y": 0.4645,
+        "r": 0.0364,
+        "weight": 0.1353
+      },
+      {
+        "x": 0.6098,
+        "y": 0.4348,
+        "r": 0.033,
+        "weight": 0.1112
+      },
+      {
+        "x": 0.6849,
+        "y": 0.5422,
+        "r": 0.033,
+        "weight": 0.1107
+      },
+      {
+        "x": 0.5447,
+        "y": 0.5679,
+        "r": 0.031,
+        "weight": 0.098
+      },
+      {
+        "x": 0.7351,
+        "y": 0.6138,
+        "r": 0.0258,
+        "weight": 0.0679
+      },
+      {
+        "x": 0.3665,
+        "y": 0.6571,
+        "r": 0.0225,
+        "weight": 0.0515
+      },
+      {
+        "x": 0.8704,
+        "y": 0.6015,
+        "r": 0.0194,
+        "weight": 0.0383
+      },
+      {
+        "x": 0.0644,
+        "y": 0.5356,
+        "r": 0.0186,
+        "weight": 0.0353
+      },
+      {
+        "x": 0.1285,
+        "y": 0.6607,
+        "r": 0.0176,
+        "weight": 0.0317
+      },
+      {
+        "x": 0.9229,
+        "y": 0.5932,
+        "r": 0.0153,
+        "weight": 0.0237
+      },
+      {
+        "x": 0.6667,
+        "y": 0.6883,
+        "r": 0.0147,
+        "weight": 0.0221
+      },
+      {
+        "x": 0.9882,
+        "y": 0.5377,
+        "r": 0.0137,
+        "weight": 0.0191
+      },
+      {
+        "x": 0.4626,
+        "y": 0.6356,
+        "r": 0.0137,
+        "weight": 0.019
+      },
+      {
+        "x": 0.4202,
+        "y": 0.6814,
+        "r": 0.0115,
+        "weight": 0.0135
+      },
+      {
+        "x": 0.1099,
+        "y": 0.5977,
+        "r": 0.0115,
+        "weight": 0.0134
+      },
+      {
+        "x": 0.2886,
+        "y": 0.6703,
+        "r": 0.0114,
+        "weight": 0.0132
+      },
+      {
+        "x": 0.7824,
+        "y": 0.5911,
+        "r": 0.0106,
+        "weight": 0.0114
+      },
+      {
+        "x": 0.1735,
+        "y": 0.6796,
+        "r": 0.0104,
+        "weight": 0.0109
+      },
+      {
+        "x": 0.8214,
+        "y": 0.6211,
+        "r": 0.0094,
+        "weight": 0.009
+      },
+      {
+        "x": 0.8888,
+        "y": 0.6352,
+        "r": 0.0093,
+        "weight": 0.0089
+      },
+      {
+        "x": 0.8053,
+        "y": 0.6324,
+        "r": 0.009,
+        "weight": 0.0082
+      },
+      {
+        "x": 0.2182,
+        "y": 0.6232,
+        "r": 0.0078,
+        "weight": 0.0062
+      },
+      {
+        "x": 0.4775,
+        "y": 0.6587,
+        "r": 0.0068,
+        "weight": 0.0047
+      }
+    ]
+  },
+  "tall": {
+    "w": 840,
+    "h": 1500,
+    "image": "bg-tall.jpg",
+    "mask": "wind-tall.png",
+    "mask_size": [
+      224,
+      400
+    ],
+    "focus": {
+      "x": 0.62,
+      "y": 0.42
+    },
+    "original_rect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "petal_spawns": [
+      {
+        "x": 0.9153,
+        "y": 0.5013,
+        "r": 0.0877,
+        "weight": 0.1513
+      },
+      {
+        "x": 0.6244,
+        "y": 0.5742,
+        "r": 0.0853,
+        "weight": 0.1431
+      },
+      {
+        "x": 0.7455,
+        "y": 0.5362,
+        "r": 0.0846,
+        "weight": 0.1407
+      },
+      {
+        "x": 0.7171,
+        "y": 0.473,
+        "r": 0.0833,
+        "weight": 0.1365
+      },
+      {
+        "x": 0.819,
+        "y": 0.4332,
+        "r": 0.0824,
+        "weight": 0.1336
+      },
+      {
+        "x": 0.9422,
+        "y": 0.4279,
+        "r": 0.0788,
+        "weight": 0.1222
+      },
+      {
+        "x": 0.085,
+        "y": 0.6571,
+        "r": 0.0681,
+        "weight": 0.0911
+      },
+      {
+        "x": 0.3812,
+        "y": 0.6356,
+        "r": 0.0434,
+        "weight": 0.037
+      },
+      {
+        "x": 0.2466,
+        "y": 0.6814,
+        "r": 0.0366,
+        "weight": 0.0263
+      },
+      {
+        "x": 0.4286,
+        "y": 0.6587,
+        "r": 0.0216,
+        "weight": 0.0091
+      },
+      {
+        "x": 0.9871,
+        "y": 0.6905,
+        "r": 0.0215,
+        "weight": 0.0091
+      }
+    ]
+  },
+  "credit": "Background art: @lofipromt (Instagram)",
+  "notes": {
+    "coords": "All x/y/w/h are normalized 0..1 of the image (x right, y down). petal_spawns r is a fraction of image WIDTH; weight is the share of total canopy area (use it to pick a spawn point).",
+    "mask_channels": "R = wind sway amount (1 grass/meadow/blossom foliage, ~0.3 inner crown of the big tree, 0 sky/mountains/valley/rocks/trunk/watermark; small trees fade to 0 at their base, meadow fades to 0 at its top edge). G = cloud mask (soft, fades out just above the mountain ridge). B = cherry-blossom canopy mask.",
+    "mask_alignment": "Masks cover the full image frame (same aspect as the matching JPEG); sample with the same UV as the background.",
+    "watermark": "The artist credit @lofiPromt is painted near the bottom-right of the original art; its R is 0 so it stays still and readable."
+  }
+}
