@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-19",
   "focus": "Medical and health programs for high school students",
   "programs": [
     {
@@ -14,8 +14,73 @@
       "deadlineNote": "Registration closes Oct 29, 2026. Late registration not accepted.",
       "dates": "Monthly sessions, Sept 2026 to May 2027, 6 PM Pacific",
       "eligibility": "Grades 9 to 12",
-      "requirements": ["Registration form", "Attendance form after each session", "Attend at least 8 of 10 sessions to earn the certificate"],
+      "requirements": [
+        "Registration form",
+        "Attendance form after each session",
+        "Attend at least 8 of 10 sessions to earn the certificate"
+      ],
       "link": "https://eastonad.ucla.edu/about/neuroscience-high-school-scholars-program"
+    },
+    {
+      "id": "roswell-sure-can-2027",
+      "name": "High School Summer Research Experience in Cancer (SURE-CAN)",
+      "host": "Roswell Park Comprehensive Cancer Center",
+      "location": "Buffalo, NY (commute only)",
+      "cost": "free",
+      "costDetail": "No fees listed; living allowance for a few students",
+      "deadline": "2027-01-01",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opened Oct 1, 2026. Closes Jan 1, 2027. School recommendation form also due Jan 1.",
+      "dates": "June 28 to Aug 6, 2027 (full time, 40 hours a week)",
+      "eligibility": "Juniors (class of 2028), 15+ by program start; live and go to school in Erie, Niagara, Cattaraugus or Chautauqua County, NY; U.S. citizen or permanent resident",
+      "requirements": [
+        "Online application",
+        "Personal statement (300 words, three prompts)",
+        "Recommendation form from a school counselor or registrar",
+        "Parent or guardian consent form"
+      ],
+      "link": "https://www.roswellpark.org/education/summer-programs/high-school-students"
+    },
+    {
+      "id": "columbia-brainstorm-2027",
+      "name": "BrainSTORM Mentorship Program",
+      "host": "Columbia University Department of Neurology",
+      "location": "Online or in person (New York, NY)",
+      "cost": "free",
+      "costDetail": "No fee listed",
+      "deadline": "2027-01-01",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opens Nov 2026. Due Jan 1, 2027 at 11:59 PM ET. Up to 20 students. Free monthly online brain talks are open to all high schoolers, no application.",
+      "dates": "About one year with a research mentor, starting summer 2027, ends with a poster day",
+      "eligibility": "High school students anywhere in the U.S. who will be in grades 10 to 12 next school year (2027-28)",
+      "requirements": [
+        "Online application with your research interests and mentor choice",
+        "Personal statement (250 to 300 words, PDF)",
+        "Resume or CV (PDF)",
+        "No AI use allowed on the application",
+        "Proof of health insurance if accepted"
+      ],
+      "link": "https://www.neurology.columbia.edu/education/additional-educational-programs/brain-seminar-teens-and-opportunities-research-mentorship-brainstorm/mentorship-program"
+    },
+    {
+      "id": "rockefeller-ssrp-2027",
+      "name": "Summer Science Research Program (SSRP)",
+      "host": "The Rockefeller University",
+      "location": "New York, NY",
+      "cost": "free",
+      "costDetail": "Free, no application fee; transit card provided; need-based stipends for some (housing not provided)",
+      "deadline": "2027-01-04",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Application and recommendation letter due Jan 4, 2027 at 5 PM ET. Interviews in March.",
+      "dates": "June 21 to Aug 5, 2027 (full time, about 35 hours a week)",
+      "eligibility": "High school juniors or seniors, 16+ by June 21, 2027; no GPA minimum",
+      "requirements": [
+        "Online application",
+        "One recommendation letter",
+        "Transcript showing high school enrollment",
+        "Zoom interview if selected"
+      ],
+      "link": "https://www.rockefeller.edu/outreach/ssrp/"
     },
     {
       "id": "kp-launch-2027",
@@ -29,7 +94,12 @@
       "deadlineNote": "Opens Nov 16, 2026. Closes Jan 8, 2027 at 5 PM PT.",
       "dates": "June 14 to July 30, 2027 (full time)",
       "eligibility": "Ages 16 to 19 by June 1, 2027; live in a Northern California KP service area; authorized to work in the U.S.",
-      "requirements": ["Online application", "Proof of U.S. work eligibility", "Work permit if under 18", "Drug screen and health checks if hired"],
+      "requirements": [
+        "Online application",
+        "Proof of U.S. work eligibility",
+        "Work permit if under 18",
+        "Drug screen and health checks if hired"
+      ],
       "link": "https://kplaunch.kaiserpermanente.org/high-school-program/"
     },
     {
@@ -44,7 +114,11 @@
       "deadlineNote": "Application and both recommendations due 11:59 PM CT.",
       "dates": "June 14 to Aug 6, 2027",
       "eligibility": "Juniors or seniors, 16+ by June 14, 2027; live in Illinois or Lake County, Indiana",
-      "requirements": ["Online application with GPA and transcript", "Four short answers (250 words each)", "Two recommendations, one from a teacher"],
+      "requirements": [
+        "Online application with GPA and transcript",
+        "Four short answers (250 words each)",
+        "Two recommendations, one from a teacher"
+      ],
       "link": "https://www.uchicagomedicine.org/cancer/education-outreach/student-education/high-school-undergraduate/researchstart"
     },
     {
@@ -53,13 +127,19 @@
       "host": "National Institutes of Health",
       "location": "Bethesda, MD and other NIH campuses",
       "cost": "free",
-      "costDetail": "Free, monthly stipend set by NIH",
+      "costDetail": "Free. NIH pays a monthly stipend based on your school level. No housing provided.",
       "deadline": "2027-01-26",
       "deadlineStatus": "confirmed",
-      "deadlineNote": "Opens Oct 13, 2026. Closes Jan 26, 2027 at noon ET. References due Feb 2.",
-      "dates": "Summer 2027, between May 10 and Aug 31",
-      "eligibility": "High school seniors who turn 18 by Sept 30, 2027; U.S. citizen or permanent resident",
-      "requirements": ["List of courses and grades", "CV or resume", "Personal statement", "Two references"],
+      "deadlineNote": "Open now. Closes Jan 26, 2027 at noon ET. References due Feb 2, 2027 at noon ET.",
+      "dates": "Full time in summer 2027, between May 10 and Aug 31",
+      "eligibility": "High school seniors who turn 18 by Sept 30, 2027. If you are still 17 on June 1, 2027, your home must be within 40 miles of an NIH campus. U.S. citizen or permanent resident.",
+      "requirements": [
+        "List of courses and grades",
+        "CV or resume",
+        "Personal statement",
+        "Two references",
+        "Contact NIH researchers yourself to ask about a spot"
+      ],
       "link": "https://www.training.nih.gov/research-training/pb/sip/"
     },
     {
@@ -74,7 +154,13 @@
       "deadlineNote": "Opens Dec 4, 2026.",
       "dates": "June 7 to Aug 6, 2027 (full time)",
       "eligibility": "Juniors or seniors, age 16, minimum 3.5 GPA",
-      "requirements": ["Application", "Two essays", "Two recommendation letters", "Transcript with fall 2026 grades", "Resume"],
+      "requirements": [
+        "Application",
+        "Two essays",
+        "Two recommendation letters",
+        "Transcript with fall 2026 grades",
+        "Resume"
+      ],
       "link": "https://www.houstonmethodist.org/2623_education/research-education/summerinternshipprogram/highschoolresearchinternship/"
     },
     {
@@ -83,14 +169,41 @@
       "host": "Rutgers Institute for Translational Medicine and Science",
       "location": "New Brunswick, NJ",
       "cost": "free",
-      "costDetail": "Tuition-free",
+      "costDetail": "Tuition-free. Day program only, no housing.",
       "deadline": "2027-02-01",
       "deadlineStatus": "estimated",
-      "deadlineNote": "The program lists Feb 1 each year. Reviewed on a rolling basis from November, so apply early.",
-      "dates": "Third week of June to second week of August",
-      "eligibility": "16 by start; entering grade 10, 11 or 12; GPA 3.0+",
-      "requirements": ["Resume", "Unofficial transcript", "Personal statement", "Two references (one science or math teacher)", "Parent consent and waiver forms"],
-      "link": "https://clinicaltrials.rbhs.rutgers.edu/education-training/ritms-summer-research-program/"
+      "deadlineNote": "Due Feb 1 each year. Foreign nationals apply by Jan 1. Applications are reviewed as they come in starting in November, so apply early.",
+      "dates": "8 weeks, third week of June to second week of August",
+      "eligibility": "Age 16+ by the start date. Entering grade 10, 11 or 12. GPA 3.0+ or all A's and B's in math and science.",
+      "requirements": [
+        "Resume",
+        "Unofficial transcript",
+        "Personal statement",
+        "Two references, one from a science or math teacher",
+        "Parent consent, waiver and conduct forms"
+      ],
+      "link": "https://ritms.rutgers.edu/education-training/graduate-and-undergraduate-education-and-training/ritms-summer-research-program/"
+    },
+    {
+      "id": "utsw-inspiring-careers-2027",
+      "name": "Inspiring Careers in Mental Health Internship",
+      "host": "UT Southwestern Medical Center",
+      "location": "Online (Zoom)",
+      "cost": "free",
+      "costDetail": "No fee listed",
+      "deadline": "2027-02-01",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Due Feb 1, 2027 at 11:59 PM CT. Picks emailed by Mar 31, 2027.",
+      "dates": "June 7 to 11 and June 14 to 18, 2027, about 9 AM to 2 PM",
+      "eligibility": "Grades 9 to 12 in fall 2026; live in the U.S. (or on a U.S. military base or diplomatic post) during the program",
+      "requirements": [
+        "Online application (finish it in one sitting)",
+        "Short essay (100 to 200 words)",
+        "Reference from your school counselor",
+        "No-felony statement and confidentiality agreement",
+        "Cameras on for all Zoom sessions"
+      ],
+      "link": "https://utsouthwestern.edu/education/medical-school/departments/psychiatry/education-and-training/inspiring-careers.html"
     },
     {
       "id": "msk-hopp-2027",
@@ -104,38 +217,13 @@
       "deadlineNote": "Opens Dec 1, 2026. Due 8:00 AM ET.",
       "dates": "June 29 to Aug 20, 2027",
       "eligibility": "Juniors, 16+ by June 2027, 3.5 science GPA, live within 25 miles of MSK in NY, NJ or CT",
-      "requirements": ["Short essays", "One-page resume", "Unofficial transcripts", "Two recommendation letters"],
+      "requirements": [
+        "Short essays",
+        "One-page resume",
+        "Unofficial transcripts",
+        "Two recommendation letters"
+      ],
       "link": "https://www.mskcc.org/education-training/high-school-college/hopp-summer-student"
-    },
-    {
-      "id": "ucsf-ssrp-2027",
-      "name": "Summer Student Research Program",
-      "host": "UCSF Benioff Children's Hospital Oakland",
-      "location": "Oakland and San Francisco, CA",
-      "cost": "free",
-      "costDetail": "Free, $3,000 stipend",
-      "deadline": "2027-02-14",
-      "deadlineStatus": "estimated",
-      "deadlineNote": "Application opens December 2026. Date based on last year.",
-      "dates": "About seven weeks, mid-June to late July",
-      "eligibility": "Grades 10 to 12, 16+ by June 1; one year each of math and biology; economically, educationally or medically disadvantaged",
-      "requirements": ["Online application", "Check the site in December for the full list"],
-      "link": "https://summerstudents.ucsf.edu/about"
-    },
-    {
-      "id": "niddk-stepup-2027",
-      "name": "STEP-UP High School Research",
-      "host": "NIH / NIDDK",
-      "location": "Research sites across the U.S.",
-      "cost": "free",
-      "costDetail": "Free, paid stipend",
-      "deadline": "2027-02-15",
-      "deadlineStatus": "estimated",
-      "deadlineNote": "Usually mid-February. Date based on last year.",
-      "dates": "8 to 10 weeks in summer",
-      "eligibility": "Juniors and seniors 16+, GPA 3.0+, from groups underrepresented in biomedical research",
-      "requirements": ["Online application", "Essay", "Recommendations", "Transcript"],
-      "link": "https://www.niddk.nih.gov/research-funding/research-programs/diversity-programs/research-training-opportunities-students/step-up"
     },
     {
       "id": "ucla-neuro-summer-2027",
@@ -149,8 +237,74 @@
       "deadlineNote": "UCLA posts the real deadline in December 2026. Date based on last year.",
       "dates": "Summer 2027, dates posted in December",
       "eligibility": "Rising juniors and seniors",
-      "requirements": ["Online application", "No transcript or recommendation letters needed"],
+      "requirements": [
+        "Online application",
+        "No transcript or recommendation letters needed"
+      ],
       "link": "https://eastonad.ucla.edu/about/neuroscience-high-school-scholars-program"
+    },
+    {
+      "id": "ucsf-ssrp-2027",
+      "name": "Summer Student Research Program",
+      "host": "UCSF Benioff Children's Hospital Oakland",
+      "location": "Oakland and San Francisco, CA",
+      "cost": "free",
+      "costDetail": "Free. $3,000 stipend for high school students. No housing provided.",
+      "deadline": "2027-02-14",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "Expected to open in December 2026. Due in February each year. The last posted deadline was Feb 14, 2025.",
+      "dates": "About 7 weeks, mid-June to end of July. 2026 ran Jun 15 to Jul 31.",
+      "eligibility": "Grades 10 to 12, age 16+ by June 1. One year each of math and biology. U.S. citizen or permanent resident. Must be economically, educationally or medically disadvantaged.",
+      "requirements": [
+        "Online application",
+        "School transcript, unofficial is OK",
+        "Personal essay, 500 words max",
+        "Resume, 2 pages max",
+        "One recommendation form"
+      ],
+      "link": "https://summerstudents.ucsf.edu/about"
+    },
+    {
+      "id": "hillman-academy-2027",
+      "name": "UPMC Hillman Cancer Center Academy",
+      "host": "UPMC Hillman Cancer Center and University of Pittsburgh",
+      "location": "Pittsburgh, PA (one site also has hybrid or remote projects)",
+      "cost": "free",
+      "costDetail": "Free; stipends for some students from groups underrepresented in biomedicine (housing not provided)",
+      "deadline": "2027-02-14",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opens Dec 3, 2026. Closes Feb 14, 2027.",
+      "dates": "June 14 to July 30, 2027 (tentative, full time)",
+      "eligibility": "High school students, 15+ by June 14, 2027 (16+ for wet lab sites); seniors OK if not taking college classes during the program",
+      "requirements": [
+        "Online application",
+        "Two short essays",
+        "One or two references",
+        "Resume",
+        "High school transcript",
+        "Parent or guardian signature"
+      ],
+      "link": "https://hillmanacademy.upmc.com/apply-now/"
+    },
+    {
+      "id": "niddk-stepup-2027",
+      "name": "STEP-UP High School Research",
+      "host": "NIH / NIDDK",
+      "location": "Research sites across the U.S.",
+      "cost": "free",
+      "costDetail": "Free. Paid stipend. Housing is not provided.",
+      "deadline": "2027-02-15",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "Opens Oct 15. High school apps are due Feb 15 at 11:59 PM ET. The site does not list a year, so check before you apply.",
+      "dates": "At least 8 weeks, 40 hours a week. High schoolers start by the first full week of June.",
+      "eligibility": "High school juniors and seniors, age 16+, GPA 3.0+. U.S. citizen, national or permanent resident.",
+      "requirements": [
+        "Online application",
+        "Essay",
+        "Recommendations",
+        "Transcript"
+      ],
+      "link": "https://niddk.nih.gov/research-funding/training-career-development/step-up/application-process-deadlines"
     },
     {
       "id": "stanford-simr-2027",
@@ -158,13 +312,18 @@
       "host": "Stanford Medicine",
       "location": "Stanford, CA",
       "cost": "free",
-      "costDetail": "No tuition; $40 application fee (can be waived); need-based stipend",
+      "costDetail": "Free to attend. $50 application fee, waived if your family earns under $80,000. A few need-based stipends.",
       "deadline": "2027-02-21",
       "deadlineStatus": "estimated",
-      "deadlineNote": "Stanford says late February 2027. Application opens Dec 18, 2026.",
-      "dates": "June 7 to July 29, 2027 (tentative)",
-      "eligibility": "Class of 2027 or 2028, 16+ by June 2027, live and attend school in the U.S., citizen or green card holder. Bay Area students strongly favored.",
-      "requirements": ["Online application", "Essays", "Recommendation", "Transcript"],
+      "deadlineNote": "Stanford says the deadline is in late February 2027. The application opens Dec 18, 2026.",
+      "dates": "Tentatively Jun 7 to Jul 29, 2027",
+      "eligibility": "Class of 2027 or 2028, age 16+ by the June 2027 start. Must live and attend high school in the U.S. and be a U.S. citizen or green card holder. Bay Area students are strongly favored.",
+      "requirements": [
+        "Online application",
+        "Two essays",
+        "One teacher recommendation",
+        "Transcript"
+      ],
       "link": "https://simr.stanford.edu/"
     },
     {
@@ -174,13 +333,39 @@
       "location": "Palo Alto, CA",
       "cost": "free",
       "costDetail": "No tuition; $50 application fee (can be waived); $3,000 stipend if in need",
-      "deadline": "2027-02-24",
+      "deadline": "2027-02-23",
       "deadlineStatus": "estimated",
-      "deadlineNote": "Date based on last year.",
-      "dates": "Mid-June to late July",
+      "deadlineNote": "Based on last year, when it opened Jan 7 and closed Feb 23.",
+      "dates": "Seven weeks, early June to late July",
       "eligibility": "Rising juniors and seniors from 7 Bay Area counties, 16+, GPA 3.0+",
-      "requirements": ["Online application", "Essays", "Recommendation", "Transcript"],
+      "requirements": [
+        "Online application",
+        "Resume",
+        "One recommendation (science or math teacher)",
+        "Unofficial transcript"
+      ],
       "link": "https://med.stanford.edu/pediatrics/education/pediatrics-internship-program.html"
+    },
+    {
+      "id": "fred-hutch-ship-2027",
+      "name": "Summer High School Internship Program (SHIP)",
+      "host": "Fred Hutch Cancer Center",
+      "location": "Seattle, WA",
+      "cost": "free",
+      "costDetail": "Free; paid award if you finish; free transit (ORCA) card",
+      "deadline": "2027-03-12",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "2027 details posted in November 2026. Last year closed March 13.",
+      "dates": "Eight weeks, late June to mid-August (full time)",
+      "eligibility": "Rising seniors, 16+ by start; live in the Greater Seattle area; no out-of-state or international students",
+      "requirements": [
+        "Online application with short essays (200 words each)",
+        "Two recommendations through the online form",
+        "Transcript (PDF)",
+        "Resume (PDF)",
+        "Zoom interview if selected"
+      ],
+      "link": "https://www.fredhutch.org/en/education-training/high-school-students/summer-high-school-internship-program.html"
     },
     {
       "id": "jhu-ispeed-2027",
@@ -194,7 +379,12 @@
       "deadlineNote": "Applications open early 2027. Last year closed March 16.",
       "dates": "Four weeks, late June to late July",
       "eligibility": "10th or 11th graders, U.S. citizen or permanent resident, age 15 to 17",
-      "requirements": ["Online application", "Two essays (250 and 150 words)", "One recommendation (math or science teacher or counselor)", "Official transcript sent by your school"],
+      "requirements": [
+        "Online application",
+        "Two essays (250 and 150 words)",
+        "One recommendation (math or science teacher or counselor)",
+        "Official transcript sent by your school"
+      ],
       "link": "https://www.bme.jhu.edu/academics/pre-college/apply-to-ispeed-bme/"
     },
     {
@@ -209,7 +399,10 @@
       "deadlineNote": "Last year closed March 23.",
       "dates": "Five weeks, late June to late July",
       "eligibility": "Juniors from low-income or first-generation families living in Northern California",
-      "requirements": ["Online application", "Check the site for essays and recommendations"],
+      "requirements": [
+        "Online application",
+        "Check the site for essays and recommendations"
+      ],
       "link": "https://med.stanford.edu/odme/high-school-students/smysp.html"
     },
     {
@@ -218,14 +411,18 @@
       "host": "Scripps Research Translational Institute",
       "location": "La Jolla, CA",
       "cost": "free",
-      "costDetail": "Free; paid or for school credit depending on funding",
+      "costDetail": "Free. Depending on funding, it may be paid or earn you school credit.",
       "deadline": "2027-03-30",
       "deadlineStatus": "estimated",
-      "deadlineNote": "Date based on last year.",
-      "dates": "Ten weeks in summer",
-      "eligibility": "16+ by internship start; interest in genomics or digital health",
-      "requirements": ["Online application", "Resume", "Statement of interest"],
-      "link": "https://www.scripps.edu/science-and-medicine/translational-institute/education-and-training/student-research-internship/"
+      "deadlineNote": "Estimated from past years. The 2025 deadline was Mar 31.",
+      "dates": "10 weeks in summer",
+      "eligibility": "Age 16+ by the start of the internship. For students interested in genomics or digital health.",
+      "requirements": [
+        "Online application",
+        "Resume",
+        "Statement of interest"
+      ],
+      "link": "https://www.scripps.edu/science/translational-institute/education-training/student-research-internship-program/"
     },
     {
       "id": "cdc-disease-detective-2027",
@@ -233,14 +430,58 @@
       "host": "CDC Museum",
       "location": "Atlanta, GA",
       "cost": "free",
-      "costDetail": "No fee listed",
+      "costDetail": "Free to attend. You pay for your own housing and travel to Atlanta.",
       "deadline": null,
       "deadlineStatus": "tba",
-      "deadlineNote": "CDC posts 2027 dates in January 2027.",
-      "dates": "One week in summer",
-      "eligibility": "Rising juniors and seniors, 16+ on the first day",
-      "requirements": ["Application form from the camp FAQ", "Check in January for the full list"],
+      "deadlineNote": "The 2026 application is closed. CDC says to check back in January 2027 for 2027 details.",
+      "dates": "One week in summer. In 2026 there were two sessions, one in June and one in July.",
+      "eligibility": "Rising juniors and seniors. You must be 16 by the first day of camp.",
+      "requirements": [
+        "Application form from the camp FAQ page",
+        "Check back in January 2027 for the full list"
+      ],
       "link": "https://www.cdc.gov/museum/camp/detective"
+    },
+    {
+      "id": "cdc-online-summer-course-2027",
+      "name": "Public Health Academy Online Summer Course",
+      "host": "CDC Museum",
+      "location": "Online",
+      "cost": "free",
+      "costDetail": "Tuition-free",
+      "deadline": null,
+      "deadlineStatus": "tba",
+      "deadlineNote": "CDC posts 2027 info in January 2027. The 2026 deadline was Apr 10, 2026.",
+      "dates": "One week in June (2026 was June 8 to 12), live class 1 to 3:30 PM ET each day",
+      "eligibility": "Rising juniors and seniors, 16+ on the first day of the course",
+      "requirements": [
+        "Application from the course FAQ (check in January 2027)",
+        "Computer with reliable internet",
+        "Attend all 5 live classes",
+        "Finish daily assignments on time to earn the certificate"
+      ],
+      "link": "https://www.cdc.gov/museum/education/online-learning/index.htm"
+    },
+    {
+      "id": "stanford-cnix-2027",
+      "name": "Clinical Neuroscience Immersion Experience (CNI-X)",
+      "host": "Stanford Medicine",
+      "location": "Online (Zoom) or Stanford, CA",
+      "cost": "paid",
+      "costDetail": "$2,100 online or $3,850 in person per session; aid can cut the fee by up to 90%",
+      "deadline": "2027-02-01",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opens Dec 15, 2026. Closes Feb 1, 2027. Decisions in early March 2027.",
+      "dates": "Two weeks. Online: June 7 to 18 or June 21 to July 2, 2027. In person: July 5 to 16 or July 19 to 30, 2027",
+      "eligibility": "Ages 14 to 18; in high school or just graduated; open to all, including international students",
+      "requirements": [
+        "Online application",
+        "Short essay (the most important part)",
+        "No recommendations or transcripts",
+        "Ask for financial aid in the application",
+        "In person: arrange your own housing and travel"
+      ],
+      "link": "https://med.stanford.edu/psychiatry/special-initiatives/CNIX.html"
     },
     {
       "id": "rady-medical-academy-2027",
@@ -248,14 +489,19 @@
       "host": "Rady Children's Hospital",
       "location": "San Diego, CA",
       "cost": "paid",
-      "costDetail": "About $3,000 plus $50 registration; limited scholarships for some San Diego County schools",
+      "costDetail": "$3,000 last year, plus a $50 registration fee. Limited need-based scholarships.",
       "deadline": "2027-02-20",
       "deadlineStatus": "estimated",
-      "deadlineNote": "Date based on last year.",
-      "dates": "Two-week sessions in June and July",
-      "eligibility": "Ages 15 to 19, finished 9th grade",
-      "requirements": ["Online application", "Registration fee"],
-      "link": "https://www.rchsd.org/programs-services/center-for-healthier-communities/medical-academy/"
+      "deadlineNote": "Applications open Dec 1, 2026. Estimate based on last year's deadline of Feb 20, 2026 at 3 PM PT. Last year's flyer said Feb 10, so apply early.",
+      "dates": "Session 1: Jun 21 to Jul 2, 2027. Session 2: Jul 12 to 23, 2027.",
+      "eligibility": "Ages 15 to 19 in June 2027. Must have finished 9th grade, up to the summer after 12th grade.",
+      "requirements": [
+        "Online application with short answers",
+        "Teacher recommendation form",
+        "Resume",
+        "$50 registration fee"
+      ],
+      "link": "https://sdhealthscholars.org/sma-application-process/"
     },
     {
       "id": "penn-summer-academies-2027",
@@ -263,14 +509,21 @@
       "host": "University of Pennsylvania",
       "location": "Philadelphia, PA",
       "cost": "paid",
-      "costDetail": "About $6,700 for 2 weeks, $10,050 for 3 weeks, plus $100 application fee",
+      "costDetail": "2027 tuition not posted yet. Penn's tuition page still shows the 2024 price of $9,700. $100 application fee. Free for some Philadelphia public school students.",
       "deadline": null,
       "deadlineStatus": "rolling",
-      "deadlineNote": "Rolling admission until full. Apply early.",
-      "dates": "July",
-      "eligibility": "Grades 9 to 11, GPA 3.5",
-      "requirements": ["Online application", "Transcript", "Application fee"],
-      "link": "https://hs.sas.upenn.edu/summer-programs/tuition"
+      "deadlineNote": "Rolling admission until full. Last year, apps opened Dec 1 and programs usually filled by March. Apply early.",
+      "dates": "3 weeks, mid-July to early August. Last year ran Jul 11 to Aug 1, 2026.",
+      "eligibility": "Current 9th to 11th graders with a 3.5+ GPA and one year of high school biology",
+      "requirements": [
+        "Online application",
+        "Transcript",
+        "Two essays, 400 words max each",
+        "Third essay if English is not your first language",
+        "One recommendation letter",
+        "$100 application fee"
+      ],
+      "link": "https://hs.sas.upenn.edu/summer-programs/academies/3-week/biomedical"
     },
     {
       "id": "nylf-medicine-2027",
@@ -278,13 +531,17 @@
       "host": "Envision by WorldStrides",
       "location": "Several U.S. college campuses",
       "cost": "paid",
-      "costDetail": "Roughly $3,000 to $7,000 depending on session",
+      "costDetail": "Starts at $4,499 for the 8-day program. A $499 deposit holds your spot.",
       "deadline": null,
       "deadlineStatus": "rolling",
-      "deadlineNote": "Enrollment is rolling until sessions fill.",
-      "dates": "About one week in June or July",
-      "eligibility": "Entering grades 9 to 12",
-      "requirements": ["Enrollment form", "Tuition payment"],
+      "deadlineNote": "First come, first served until sessions fill. Payment plans end Apr 30, 2027.",
+      "dates": "8 days in June or July. 2027 dates not posted yet.",
+      "eligibility": "High school students in grades 9 to 12",
+      "requirements": [
+        "Online enrollment form",
+        "$499 deposit to hold your spot",
+        "No nomination needed"
+      ],
       "link": "https://www.envisionexperience.com/explore-our-programs/national-youth-leadership-forum-medicine"
     }
   ]
