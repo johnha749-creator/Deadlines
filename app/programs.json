@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-26",
   "focus": "Medical and health programs for high school students",
   "programs": [
     {
@@ -20,6 +20,51 @@
         "Attend at least 8 of 10 sessions to earn the certificate"
       ],
       "link": "https://eastonad.ucla.edu/about/neuroscience-high-school-scholars-program"
+    },
+    {
+      "id": "st-jude-research-immersion-2027",
+      "name": "High School Research Immersion Program",
+      "host": "St. Jude Children's Research Hospital",
+      "location": "Memphis, TN",
+      "cost": "free",
+      "costDetail": "No program fee listed. $4,800 stipend.",
+      "deadline": "2026-12-04",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Open now. Closes Dec 4, 2026. All materials, including the teacher recommendation, must arrive by then.",
+      "dates": "June 1 to July 24, 2027. 8 weeks, 9 AM to 5 PM, 40 hours a week. Poster exhibition on July 24, 2027.",
+      "eligibility": "Current juniors at a high school in the Memphis-Shelby County area or nearby counties in Tennessee, Mississippi or Arkansas. Age 16 or older. GPA 3.0 or higher. U.S. citizen, U.S. national or permanent resident.",
+      "requirements": [
+        "Online application",
+        "Teacher recommendation",
+        "Official transcript if selected",
+        "Parent or guardian permission if selected",
+        "Attend all 8 weeks"
+      ],
+      "link": "https://www.stjude.org/education-training/pre-college/high-school-programs/high-school-research-immersion.html"
+    },
+    {
+      "id": "arizona-keys-2027",
+      "name": "KEYS Research Internship",
+      "host": "BIO5 Institute, University of Arizona",
+      "location": "Tucson, AZ",
+      "cost": "free",
+      "costDetail": "Free. No application fee. You earn 3 units of MCB credit. Limited campus housing for students from outside the Tucson area. Aid is available for costs like meals, parking and transportation.",
+      "deadline": "2026-12-17",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opens Nov 2, 2026. Closes Dec 17, 2026. Your recommenders must finish their forms by Jan 7, 2027. Interview news by mid-February. Offers by the end of March.",
+      "dates": "June 7 to July 23, 2027. 1 week of training, then 6 weeks in a University of Arizona lab, 30 to 40 hours a week. No absences allowed.",
+      "eligibility": "High school students age 16 or older by June 7, 2027. U.S. citizen or permanent resident who has lived in Arizona at least one year. For students interested in bioscience, biomedicine or data science.",
+      "requirements": [
+        "Online application with four essay questions",
+        "Resume of activities and experiences",
+        "Unofficial transcript",
+        "Contact info for two recommenders, one a science teacher",
+        "Recommenders fill out the KEYS form. Letters are not accepted.",
+        "Interview if invited",
+        "Pre-KEYS assignments",
+        "Final presentation at the Research Showcase"
+      ],
+      "link": "https://keys.arizona.edu/information/future-students"
     },
     {
       "id": "roswell-sure-can-2027",
@@ -122,6 +167,46 @@
       "link": "https://www.uchicagomedicine.org/cancer/education-outreach/student-education/high-school-undergraduate/researchstart"
     },
     {
+      "id": "utsw-stars-srp-2027",
+      "name": "STARS Summer Research Program for Students",
+      "host": "UT Southwestern Medical Center",
+      "location": "Dallas, TX",
+      "cost": "free",
+      "costDetail": "Free. Students are paid a stipend. The amount is not listed.",
+      "deadline": "2027-01-22",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opens Nov 16, 2026. Closes Jan 22, 2027. The application link goes up on the STARS website when it opens. The required materials are not posted yet.",
+      "dates": "8 weeks in summer 2027 in a biomedical research lab. Non-residential. No clinical or shadowing work. Exact dates not posted yet.",
+      "eligibility": "High school juniors who are 16 or older by June 1, 2027. U.S. citizens, U.S. nationals or those eligible to work in the U.S. Aimed at North Texas students. Students with prior research experience are not eligible.",
+      "requirements": [
+        "Online application",
+        "Present your research at the end of the summer",
+        "Give talks about your research at your own school"
+      ],
+      "link": "https://www.utsouthwestern.edu/education/programs/stars/programs/summer-research-opportunities.html"
+    },
+    {
+      "id": "wustl-ysp-summer-focus-2027",
+      "name": "Young Scientist Program (YSP) Summer Focus",
+      "host": "Washington University in St. Louis",
+      "location": "St. Louis, MO",
+      "cost": "free",
+      "costDetail": "No program fee listed. $4,800 stipend before taxes. Free Metro transit pass. Parking not provided.",
+      "deadline": "2027-01-25",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opens Nov 2, 2026. Due Jan 25, 2027. Recommendation letters due Feb 1, 2027. Interviews Mar 6 and 7, 2027. Decisions in April.",
+      "dates": "May 31 to July 23, 2027, in person, 40 hours a week. Orientation May 26 to 28, 2027. You can miss no more than 3 days.",
+      "eligibility": "Grade 11 students at a high school in the Greater St. Louis area of Missouri or Illinois. Must live in the St. Louis metro area. For students with no previous research experience.",
+      "requirements": [
+        "Online application with transcript",
+        "Five short answers, 150 words each",
+        "Two essays, 300 words each",
+        "Two recommendation letters, one from a math or science teacher",
+        "Interview if selected"
+      ],
+      "link": "https://sites.wustl.edu/wustlysp/programs/summer-focus/"
+    },
+    {
       "id": "nih-sip-2027",
       "name": "NIH Summer Internship Program (SIP)",
       "host": "National Institutes of Health",
@@ -148,11 +233,11 @@
       "host": "Houston Methodist",
       "location": "Houston, TX",
       "cost": "free",
-      "costDetail": "Free",
+      "costDetail": "Free. This is a paid internship with a stipend.",
       "deadline": "2027-01-29",
       "deadlineStatus": "confirmed",
       "deadlineNote": "Opens Dec 4, 2026.",
-      "dates": "June 7 to Aug 6, 2027 (full time)",
+      "dates": "June 1 to Aug 6, 2027 (full time, 10 weeks)",
       "eligibility": "Juniors or seniors, age 16, minimum 3.5 GPA",
       "requirements": [
         "Application",
@@ -161,7 +246,7 @@
         "Transcript with fall 2026 grades",
         "Resume"
       ],
-      "link": "https://www.houstonmethodist.org/2623_education/research-education/summerinternshipprogram/highschoolresearchinternship/"
+      "link": "https://www.houstonmethodist.org/academic-institute/education/research/summer-internship-program/highschoolresearchinternship/"
     },
     {
       "id": "rutgers-ritms-2027",
@@ -262,7 +347,7 @@
         "Resume, 2 pages max",
         "One recommendation form"
       ],
-      "link": "https://summerstudents.ucsf.edu/about"
+      "link": "https://summerstudents.ucsf.edu/"
     },
     {
       "id": "hillman-academy-2027",
@@ -347,6 +432,25 @@
       "link": "https://med.stanford.edu/pediatrics/education/pediatrics-internship-program.html"
     },
     {
+      "id": "ashg-dna-day-2027",
+      "name": "DNA Day Essay Contest",
+      "host": "American Society of Human Genetics",
+      "location": "Online",
+      "cost": "free",
+      "costDetail": "No entry fee. In 2025, prizes were $1,000, $600 and $400, plus $100 for each honorable mention.",
+      "deadline": "2027-03-04",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "Due in early March each year. The 2026 contest closed Mar 4, 2026. 2027 details are not posted yet.",
+      "dates": "Winners announced in late April.",
+      "eligibility": "Grades 9 to 12, in the U.S. and other countries. One student per essay. Group essays are not accepted.",
+      "requirements": [
+        "Essay of 750 words or fewer, in English",
+        "In-text citations and a reference list",
+        "A teacher or school official submits the essay, or a parent for homeschooled students"
+      ],
+      "link": "https://www.ashg.org/dna-day/"
+    },
+    {
       "id": "fred-hutch-ship-2027",
       "name": "Summer High School Internship Program (SHIP)",
       "host": "Fred Hutch Cancer Center",
@@ -425,6 +529,27 @@
       "link": "https://www.scripps.edu/science/translational-institute/education-training/student-research-internship-program/"
     },
     {
+      "id": "nei-eye-future-2027",
+      "name": "Eye on the Future Teen Video Contest",
+      "host": "National Eye Institute (NIH)",
+      "location": "Online",
+      "cost": "free",
+      "costDetail": "No entry fee. One winner in each of three categories gets $2,000.",
+      "deadline": "2027-04-18",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "Entries close in late April each year. The 2026 round ran Jan 12 to Apr 19, 2026. Entries also stop once 300 videos arrive, so send yours early.",
+      "dates": "Submissions open in mid January. Winners announced by the end of June.",
+      "eligibility": "Grades 9 to 12 at a high school in the U.S. or a U.S. territory. Enter alone or in a team of exactly three. Cash prizes go to U.S. citizens and permanent residents.",
+      "requirements": [
+        "Video up to 3 minutes long",
+        "Unlisted YouTube link",
+        "Signed registration form, with a parent signature if under 18",
+        "Signed release form for anyone else seen or heard in the video",
+        "List of sources"
+      ],
+      "link": "https://www.nei.nih.gov/about/education-and-outreach/eye-future-teen-video-contest"
+    },
+    {
       "id": "cdc-disease-detective-2027",
       "name": "Disease Detective Camp",
       "host": "CDC Museum",
@@ -463,6 +588,25 @@
       "link": "https://www.cdc.gov/museum/education/online-learning/index.htm"
     },
     {
+      "id": "perry-pop-2026",
+      "name": "Perry Outreach Program",
+      "host": "The Perry Initiative",
+      "location": "One-day events at hospitals and universities across the U.S.",
+      "cost": "free",
+      "costDetail": "Free. Lunch is provided.",
+      "deadline": null,
+      "deadlineStatus": "rolling",
+      "deadlineNote": "Each program day has its own deadline, usually about one month before it. Check the program list for sites near you.",
+      "dates": "One Saturday, 8:30 AM to 3:30 PM. Programs run September through June at sites across the U.S., 40 students each.",
+      "eligibility": "High school students from all backgrounds.",
+      "requirements": [
+        "Online POP application",
+        "Short essays, 1,000 characters each",
+        "A reference"
+      ],
+      "link": "https://perryinitiative.org/pop-application/"
+    },
+    {
       "id": "stanford-cnix-2027",
       "name": "Clinical Neuroscience Immersion Experience (CNI-X)",
       "host": "Stanford Medicine",
@@ -482,6 +626,26 @@
         "In person: arrange your own housing and travel"
       ],
       "link": "https://med.stanford.edu/psychiatry/special-initiatives/CNIX.html"
+    },
+    {
+      "id": "gmu-assip-2027",
+      "name": "Aspiring Scientists Summer Internship Program (ASSIP)",
+      "host": "George Mason University",
+      "location": "Fairfax, VA",
+      "cost": "paid",
+      "costDetail": "$25 application fee and $1,299 tuition if accepted. Both can be waived for financial need, such as free or reduced lunch.",
+      "deadline": "2027-02-12",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opens Dec 7, 2026. Closes Feb 12, 2027.",
+      "dates": "Summer 2027. Program dates will be posted in November 2026.",
+      "eligibility": "High school and college students, age 15+ by the first day. Age 16+ for labs with biological or chemical hazards. You can take part for up to two summers.",
+      "requirements": [
+        "Online application",
+        "Personal statements",
+        "STEM courses, GPA and work or volunteer experience",
+        "No transcript or recommendation letters at the first review"
+      ],
+      "link": "https://science.gmu.edu/assip"
     },
     {
       "id": "rady-medical-academy-2027",
