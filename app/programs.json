@@ -1,26 +1,7 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-11-02",
   "focus": "Medical and health programs for high school students",
   "programs": [
-    {
-      "id": "ucla-neuro-grand-rounds-2026",
-      "name": "Neuroscience Grand Rounds Certificate",
-      "host": "UCLA",
-      "location": "Online (Zoom)",
-      "cost": "free",
-      "costDetail": "No fee listed",
-      "deadline": "2026-10-29",
-      "deadlineStatus": "confirmed",
-      "deadlineNote": "Registration closes Oct 29, 2026. Late registration not accepted.",
-      "dates": "Monthly sessions, Sept 2026 to May 2027, 6 PM Pacific",
-      "eligibility": "Grades 9 to 12",
-      "requirements": [
-        "Registration form",
-        "Attendance form after each session",
-        "Attend at least 8 of 10 sessions to earn the certificate"
-      ],
-      "link": "https://eastonad.ucla.edu/about/neuroscience-high-school-scholars-program"
-    },
     {
       "id": "st-jude-research-immersion-2027",
       "name": "High School Research Immersion Program",
@@ -59,6 +40,7 @@
         "Resume of activities and experiences",
         "Unofficial transcript",
         "Contact info for two recommenders, one a science teacher",
+        "Signed student and parent agreement",
         "Recommenders fill out the KEYS form. Letters are not accepted.",
         "Interview if invited",
         "Pre-KEYS assignments",
@@ -95,12 +77,12 @@
       "costDetail": "No fee listed",
       "deadline": "2027-01-01",
       "deadlineStatus": "confirmed",
-      "deadlineNote": "Opens Nov 2026. Due Jan 1, 2027 at 11:59 PM ET. Up to 20 students. Free monthly online brain talks are open to all high schoolers, no application.",
-      "dates": "About one year with a research mentor, starting summer 2027, ends with a poster day",
+      "deadlineNote": "Opens Nov 2026. Due Jan 1, 2027 at 11:59 PM ET. Decisions by Mar 1, 2027. Up to 20 students. Monthly online brain talks are open to all high schoolers, no application.",
+      "dates": "About one year with a research mentor. Starts July to September 2027 and ends June 2028 with a poster day.",
       "eligibility": "High school students anywhere in the U.S. who will be in grades 10 to 12 next school year (2027-28)",
       "requirements": [
         "Online application with your research interests and mentor choice",
-        "Personal statement (250 to 300 words, PDF)",
+        "Personal statement, 150 words max, as a PDF",
         "Resume or CV (PDF)",
         "No AI use allowed on the application",
         "Proof of health insurance if accepted"
@@ -142,10 +124,33 @@
       "requirements": [
         "Online application",
         "Proof of U.S. work eligibility",
-        "Work permit if under 18",
+        "Work permit if you will still be in high school in fall 2027",
         "Drug screen and health checks if hired"
       ],
       "link": "https://kplaunch.kaiserpermanente.org/high-school-program/"
+    },
+    {
+      "id": "bidmc-agress-summer-health-corps-2027",
+      "name": "Agress Summer Health Corps",
+      "host": "Beth Israel Deaconess Medical Center",
+      "location": "Boston, MA",
+      "cost": "free",
+      "costDetail": "Free volunteer program. No pay. Lunch meal card and free parking provided.",
+      "deadline": "2027-01-15",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "The 2027 dates are not posted yet. Last year the application was open only from Dec 15, 2025 to Jan 15, 2026, and late forms were not accepted. Expect about Dec 15, 2026 to Jan 15, 2027.",
+      "dates": "Summer 2027, about 6 weeks. Last year it ran July 7 to Aug 13, 2026, Monday to Thursday, 9 AM to 2 PM.",
+      "eligibility": "Massachusetts residents over the age of 16 who are in 10th or 11th grade when they apply. Must have reliable transportation to Boston. Past participants cannot apply again.",
+      "requirements": [
+        "Online application",
+        "Two references, one from a teacher, counselor or advisor",
+        "Interview",
+        "Proof of MMR, varicella, Tdap and Hepatitis B shots if accepted",
+        "TB test before the program",
+        "Attend every scheduled day",
+        "Non-clinical hospital volunteer work"
+      ],
+      "link": "https://bidmc.org/about-bidmc/helping-our-community/volunteer-services/agress-summer-health-corps"
     },
     {
       "id": "researchstart-2027",
@@ -153,12 +158,12 @@
       "host": "University of Chicago Medicine and partners",
       "location": "Chicago and Urbana-Champaign, IL",
       "cost": "free",
-      "costDetail": "Free, $4,000 stipend (housing not provided)",
-      "deadline": "2027-01-11",
-      "deadlineStatus": "confirmed",
-      "deadlineNote": "Application and both recommendations due 11:59 PM CT.",
-      "dates": "June 14 to Aug 6, 2027",
-      "eligibility": "Juniors or seniors, 16+ by June 14, 2027; live in Illinois or Lake County, Indiana",
+      "costDetail": "Free. Taxable $3,000 stipend. No housing or transportation provided.",
+      "deadline": "2027-01-18",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "2027 date not posted yet. Dates come out each fall. It was due Jan 22, 2024 and Jan 20, 2025 at 11:59 PM CT, with both recommendations due the same day.",
+      "dates": "8 weeks, full time (40 hours a week). Usually the second full week of June to the first week of August. In 2026 it ran June 15 to Aug 7. 2027 dates not posted yet.",
+      "eligibility": "High school juniors or seniors when you apply. Age 16+ by the start of the program. Live in Illinois or Lake County, Indiana. Must commit to all 8 weeks.",
       "requirements": [
         "Online application with GPA and transcript",
         "Four short answers (250 words each)",
@@ -175,7 +180,7 @@
       "costDetail": "Free. Students are paid a stipend. The amount is not listed.",
       "deadline": "2027-01-22",
       "deadlineStatus": "confirmed",
-      "deadlineNote": "Opens Nov 16, 2026. Closes Jan 22, 2027. The application link goes up on the STARS website when it opens. The required materials are not posted yet.",
+      "deadlineNote": "Opens Nov 16, 2026. Closes Jan 22, 2027, per the STARS 2026-27 calendar. The program page also shows Jan 20 with no year, so apply a few days early. Required materials are not posted yet.",
       "dates": "8 weeks in summer 2027 in a biomedical research lab. Non-residential. No clinical or shadowing work. Exact dates not posted yet.",
       "eligibility": "High school juniors who are 16 or older by June 1, 2027. U.S. citizens, U.S. nationals or those eligible to work in the U.S. Aimed at North Texas students. Students with prior research experience are not eligible.",
       "requirements": [
@@ -183,7 +188,7 @@
         "Present your research at the end of the summer",
         "Give talks about your research at your own school"
       ],
-      "link": "https://www.utsouthwestern.edu/education/programs/stars/programs/summer-research-opportunities.html"
+      "link": "https://www.utsouthwestern.edu/education/nondegree-programs/stars/programs/summer-research-opportunities.html"
     },
     {
       "id": "wustl-ysp-summer-focus-2027",
@@ -265,6 +270,7 @@
         "Unofficial transcript",
         "Personal statement",
         "Two references, one from a science or math teacher",
+        "Proof of U.S. citizenship or permanent residence if selected",
         "Parent consent, waiver and conduct forms"
       ],
       "link": "https://ritms.rutgers.edu/education-training/graduate-and-undergraduate-education-and-training/ritms-summer-research-program/"
@@ -277,14 +283,14 @@
       "cost": "free",
       "costDetail": "No fee listed",
       "deadline": "2027-02-01",
-      "deadlineStatus": "confirmed",
-      "deadlineNote": "Due Feb 1, 2027 at 11:59 PM CT. Picks emailed by Mar 31, 2027.",
-      "dates": "June 7 to 11 and June 14 to 18, 2027, about 9 AM to 2 PM",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "Estimated. UTSW's page says applications open in late September and are due in early February, but it does not give the 2027 date. Students are picked in March.",
+      "dates": "Two weeks in June 2027, online. The exact days are not on UTSW's program page.",
       "eligibility": "Grades 9 to 12 in fall 2026; live in the U.S. (or on a U.S. military base or diplomatic post) during the program",
       "requirements": [
         "Online application (finish it in one sitting)",
         "Short essay (100 to 200 words)",
-        "Reference from your school counselor",
+        "Reference from your school counselor or homeschool administrator",
         "No-felony statement and confidentiality agreement",
         "Cameras on for all Zoom sessions"
       ],
@@ -392,6 +398,26 @@
       "link": "https://niddk.nih.gov/research-funding/training-career-development/step-up/application-process-deadlines"
     },
     {
+      "id": "uh-future-nurse-academy-2027",
+      "name": "UH Future Nurse Academy",
+      "host": "University Hospitals",
+      "location": "Northeast Ohio, at one of three sites in the Cleveland area",
+      "cost": "free",
+      "costDetail": "No fee is listed. Meals, materials and rides to field trips are provided.",
+      "deadline": "2027-02-15",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "Applications open in mid-January 2027 and are due by mid-February, by midnight on the due date. Last year's deadline was Feb 19, 2026. Decisions come in early April.",
+      "dates": "Two weeks in summer 2027, 8:30 AM to 3:30 PM. Monday to Thursday in week one and Monday to Friday in week two. Sites and dates for 2027 come out in January. Last year's three sessions ran between June 15 and July 31, 2026.",
+      "eligibility": "High school students entering 11th or 12th grade in fall 2027 who are interested in nursing. No residency rule is posted, but all sites are in the Cleveland area. Rides are listed only for field trips, so plan how you will get to your site.",
+      "requirements": [
+        "Application with all required documents by midnight on the due date",
+        "Meet health requirements",
+        "Attend the full two weeks at one site",
+        "Student orientation after acceptance"
+      ],
+      "link": "https://www.uhhospitals.org/for-clinicians/nursing/education-programs/uh-future-nurse-academy"
+    },
+    {
       "id": "stanford-simr-2027",
       "name": "Stanford Institutes of Medicine Summer Research (SIMR)",
       "host": "Stanford Medicine",
@@ -430,6 +456,27 @@
         "Unofficial transcript"
       ],
       "link": "https://med.stanford.edu/pediatrics/education/pediatrics-internship-program.html"
+    },
+    {
+      "id": "unm-health-careers-academy-2027",
+      "name": "Health Careers Academy (HCA)",
+      "host": "University of New Mexico Health Sciences Center",
+      "location": "Albuquerque and regional sites across New Mexico",
+      "cost": "free",
+      "costDetail": "No program fee listed. $500 stipend when you finish the program.",
+      "deadline": "2027-02-26",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "UNM says 2027 applications will open soon. The deadline is not posted yet. Last year applications were open Oct 1, 2025 to Feb 27, 2026, with decisions in early April.",
+      "dates": "Starts in June 2027 and runs about 2 to 3 weeks, plus a one-day orientation. Last year sessions ran between June 8 and June 24, 2026, weekdays 9 AM to 3 PM, depending on the site.",
+      "eligibility": "New Mexico or Navajo Nation residents who are high school sophomores or juniors when they apply. GPA 2.5 or higher. Interest in a health career. Regional sites only take students from certain counties.",
+      "requirements": [
+        "Student application",
+        "Short essay answers",
+        "One recommendation form",
+        "Attend the full program and orientation",
+        "Get to your site each day unless your site offers rides"
+      ],
+      "link": "https://hsc.unm.edu/diversity/programs/community/academy.html"
     },
     {
       "id": "ashg-dna-day-2027",
@@ -495,14 +542,14 @@
       "id": "stanford-smysp-2027",
       "name": "Stanford Medical Youth Science Program (SMYSP)",
       "host": "Stanford Medicine",
-      "location": "Stanford, CA (live on campus)",
+      "location": "Stanford, CA (commute from home)",
       "cost": "free",
-      "costDetail": "Tuition-free",
+      "costDetail": "Tuition-free. Housing and transportation are not provided. No stipend in 2026.",
       "deadline": "2027-03-22",
       "deadlineStatus": "estimated",
-      "deadlineNote": "Last year closed March 23.",
-      "dates": "Five weeks, late June to late July",
-      "eligibility": "Juniors from low-income or first-generation families living in Northern California",
+      "deadlineNote": "Last year closed March 23. The 2026 application opened in mid-December. 2027 details are not posted yet.",
+      "dates": "Five weeks, late June to late July, on campus Monday to Friday",
+      "eligibility": "Low-income, first-generation high school juniors who live in Northern California. You must live with a family member or guardian during the program.",
       "requirements": [
         "Online application",
         "Check the site for essays and recommendations"
@@ -633,7 +680,7 @@
       "host": "George Mason University",
       "location": "Fairfax, VA",
       "cost": "paid",
-      "costDetail": "$25 application fee and $1,299 tuition if accepted. Both can be waived for financial need, such as free or reduced lunch.",
+      "costDetail": "$25 application fee. Tuition was $1,299 for 2026, paid only if you accept a spot. 2027 tuition will be posted in November 2026. Both can be waived for financial need, such as free or reduced lunch.",
       "deadline": "2027-02-12",
       "deadlineStatus": "confirmed",
       "deadlineNote": "Opens Dec 7, 2026. Closes Feb 12, 2027.",
