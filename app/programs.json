@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-09",
   "focus": "Medical and health programs for high school students",
   "programs": [
     {
@@ -24,6 +24,27 @@
       "link": "https://www.stjude.org/education-training/pre-college/high-school-programs/high-school-research-immersion.html"
     },
     {
+      "id": "mayo-clinic-hs-volunteers-2027",
+      "name": "High School Volunteers Program",
+      "host": "Mayo Clinic",
+      "location": "Rochester, MN",
+      "cost": "free",
+      "costDetail": "No fee listed. This is a volunteer role.",
+      "deadline": "2026-12-07",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Session 1 applications are only taken Nov 30 to Dec 7, 2026. Orientation is in mid December. Applications for the June to August session are taken Apr 5 to 12, 2027. Applications for the session starting in September 2027 are taken July 5 to 12, 2027.",
+      "dates": "Session 1 runs February through May 2027. Session 2 runs June through August 2027. One weekly shift of at least 2 hours for the whole session.",
+      "eligibility": "High school students who are age 14 or older.",
+      "requirements": [
+        "Online application during the open week",
+        "Attend High School Volunteer Orientation",
+        "Background studies with photo and fingerprints",
+        "Service Area Training",
+        "Weekly shift for at least one full session"
+      ],
+      "link": "https://www.mayoclinic.org/about-mayo-clinic/volunteers/minnesota/how-to-apply/high-school-volunteers"
+    },
+    {
       "id": "arizona-keys-2027",
       "name": "KEYS Research Internship",
       "host": "BIO5 Institute, University of Arizona",
@@ -32,11 +53,11 @@
       "costDetail": "Free. No application fee. You earn 3 units of MCB credit. Limited campus housing for students from outside the Tucson area. Aid is available for costs like meals, parking and transportation.",
       "deadline": "2026-12-17",
       "deadlineStatus": "confirmed",
-      "deadlineNote": "Opens Nov 2, 2026. Closes Dec 17, 2026. Your recommenders must finish their forms by Jan 7, 2027. Interview news by mid-February. Offers by the end of March.",
-      "dates": "June 7 to July 23, 2027. 1 week of training, then 6 weeks in a University of Arizona lab, 30 to 40 hours a week. No absences allowed.",
+      "deadlineNote": "Open now since Nov 2, 2026. Closes Dec 17, 2026. Your recommenders must finish their forms by Jan 7, 2027, or your application will not be considered. Interview news by mid-February. Offers by the end of March.",
+      "dates": "June 7 to July 23, 2027. 1 week of training, then 6 weeks in a University of Arizona lab, 35+ hours a week. You must be available for the whole program.",
       "eligibility": "High school students age 16 or older by June 7, 2027. U.S. citizen or permanent resident who has lived in Arizona at least one year. For students interested in bioscience, biomedicine or data science.",
       "requirements": [
-        "Online application with four essay questions",
+        "Online application with three essay questions",
         "Resume of activities and experiences",
         "Unofficial transcript",
         "Contact info for two recommenders, one a science teacher",
@@ -95,17 +116,17 @@
       "host": "The Rockefeller University",
       "location": "New York, NY",
       "cost": "free",
-      "costDetail": "Free, no application fee; transit card provided; need-based stipends for some (housing not provided)",
+      "costDetail": "Free, with no application fee. OMNY transit card provided. Need-based stipends for some. Housing not provided.",
       "deadline": "2027-01-04",
       "deadlineStatus": "confirmed",
-      "deadlineNote": "Application and recommendation letter due Jan 4, 2027 at 5 PM ET. Interviews in March.",
+      "deadlineNote": "Opened Oct 12, 2026. Application and recommendation letter due Jan 4, 2027 at 5 PM ET. Late applications are not considered. Interviews in March, decisions in late April.",
       "dates": "June 21 to Aug 5, 2027 (full time, about 35 hours a week)",
       "eligibility": "High school juniors or seniors, 16+ by June 21, 2027; no GPA minimum",
       "requirements": [
         "Online application",
         "One recommendation letter",
         "Transcript showing high school enrollment",
-        "Zoom interview if selected"
+        "Virtual interview if selected"
       ],
       "link": "https://www.rockefeller.edu/outreach/ssrp/"
     },
@@ -119,15 +140,37 @@
       "deadline": "2027-01-08",
       "deadlineStatus": "confirmed",
       "deadlineNote": "Opens Nov 16, 2026. Closes Jan 8, 2027 at 5 PM PT.",
-      "dates": "June 14 to July 30, 2027 (full time)",
-      "eligibility": "Ages 16 to 19 by June 1, 2027; live in a Northern California KP service area; authorized to work in the U.S.",
+      "dates": "June 14 to July 30, 2027. Full time, Monday to Friday.",
+      "eligibility": "Current high school students or Class of 2027 seniors, ages 16 to 19 by June 1, 2027. Class of 2026 grads with no college may also apply. Juniors and seniors get priority. Must live in a Northern California KP service area and be allowed to work in the U.S. Dependents of KP employees and physicians cannot apply.",
       "requirements": [
         "Online application",
         "Proof of U.S. work eligibility",
         "Work permit if you will still be in high school in fall 2027",
-        "Drug screen and health checks if hired"
+        "Drug screen and health checks if hired",
+        "Background check if you are 18 or older when hired"
       ],
       "link": "https://kplaunch.kaiserpermanente.org/high-school-program/"
+    },
+    {
+      "id": "researchstart-2027",
+      "name": "researcHStart",
+      "host": "University of Chicago Medicine and partners",
+      "location": "Chicago and Urbana-Champaign, IL",
+      "cost": "free",
+      "costDetail": "Free. Taxable $3,000 stipend. No housing or transportation provided.",
+      "deadline": "2027-01-11",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "Not final yet. UChicago runs the program and has not posted 2027 dates. Its page still says applications are closed. The UIC Cancer Center site page lists Jan 11, 2027 and links a 2027 application form, but that page also shows last year's program dates. In 2025 it was due Jan 20, with both recommendations due the same day.",
+      "dates": "8 weeks, 35 to 40 hours a week. Usually the second full week of June to the first week of August. In 2026 it ran June 15 to Aug 7. 2027 dates not posted yet.",
+      "eligibility": "High school juniors or seniors when you apply. Age 16+ by the start of the program. Live in Illinois or Lake County, Indiana. Must commit to all 8 weeks.",
+      "requirements": [
+        "One online application for all UChicago Cancer Center pathway programs",
+        "GPA and transcript",
+        "Four short answers (250 words each)",
+        "Two recommendations, one from a teacher",
+        "To work at the UIC site, rank UIC as your first choice"
+      ],
+      "link": "https://www.uchicagomedicine.org/cancer/education-outreach/student-education/high-school-undergraduate/researchstart"
     },
     {
       "id": "bidmc-agress-summer-health-corps-2027",
@@ -153,23 +196,25 @@
       "link": "https://bidmc.org/about-bidmc/helping-our-community/volunteer-services/agress-summer-health-corps"
     },
     {
-      "id": "researchstart-2027",
-      "name": "researcHStart",
-      "host": "University of Chicago Medicine and partners",
-      "location": "Chicago and Urbana-Champaign, IL",
+      "id": "augusta-gcc-sre-2027",
+      "name": "Summer Research Experience (SRE)",
+      "host": "Georgia Cancer Center, Augusta University",
+      "location": "Augusta, GA",
       "cost": "free",
-      "costDetail": "Free. Taxable $3,000 stipend. No housing or transportation provided.",
-      "deadline": "2027-01-18",
-      "deadlineStatus": "estimated",
-      "deadlineNote": "2027 date not posted yet. Dates come out each fall. It was due Jan 22, 2024 and Jan 20, 2025 at 11:59 PM CT, with both recommendations due the same day.",
-      "dates": "8 weeks, full time (40 hours a week). Usually the second full week of June to the first week of August. In 2026 it ran June 15 to Aug 7. 2027 dates not posted yet.",
-      "eligibility": "High school juniors or seniors when you apply. Age 16+ by the start of the program. Live in Illinois or Lake County, Indiana. Must commit to all 8 weeks.",
+      "costDetail": "No program fee listed. No stipend or housing.",
+      "deadline": "2027-01-15",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opened Oct 15, 2026. Closes Jan 15, 2027 at 11:59 PM. After you submit, enter your two recommenders in the applicant status portal.",
+      "dates": "June 2 to July 14, 2027. 6 weeks working with cancer researchers.",
+      "eligibility": "High school students interested in biomedical science, especially cancer research. You must be 16 by the start date for lab projects. Students under 16 can apply for bioinformatics or community-based research projects. Priority goes to students from Richmond, Columbia and Aiken counties.",
       "requirements": [
-        "Online application with GPA and transcript",
-        "Four short answers (250 words each)",
-        "Two recommendations, one from a teacher"
+        "Online application",
+        "Most recent transcript",
+        "Personal statement, up to 250 words",
+        "Two recommendation letters, at least one from a teacher or counselor",
+        "Photo ID and proof of health insurance"
       ],
-      "link": "https://www.uchicagomedicine.org/cancer/education-outreach/student-education/high-school-undergraduate/researchstart"
+      "link": "https://www.augusta.edu/cancer/education/summer-research-experience.php"
     },
     {
       "id": "utsw-stars-srp-2027",
@@ -180,7 +225,7 @@
       "costDetail": "Free. Students are paid a stipend. The amount is not listed.",
       "deadline": "2027-01-22",
       "deadlineStatus": "confirmed",
-      "deadlineNote": "Opens Nov 16, 2026. Closes Jan 22, 2027, per the STARS 2026-27 calendar. The program page also shows Jan 20 with no year, so apply a few days early. Required materials are not posted yet.",
+      "deadlineNote": "Opens Nov 16, 2026. Closes Jan 22, 2027, per the STARS 2026-27 student calendar. The program page lists Nov 21 to Jan 20 with no year, so apply by Jan 20 to be safe. Required materials are not posted yet.",
       "dates": "8 weeks in summer 2027 in a biomedical research lab. Non-residential. No clinical or shadowing work. Exact dates not posted yet.",
       "eligibility": "High school juniors who are 16 or older by June 1, 2027. U.S. citizens, U.S. nationals or those eligible to work in the U.S. Aimed at North Texas students. Students with prior research experience are not eligible.",
       "requirements": [
@@ -199,8 +244,8 @@
       "costDetail": "No program fee listed. $4,800 stipend before taxes. Free Metro transit pass. Parking not provided.",
       "deadline": "2027-01-25",
       "deadlineStatus": "confirmed",
-      "deadlineNote": "Opens Nov 2, 2026. Due Jan 25, 2027. Recommendation letters due Feb 1, 2027. Interviews Mar 6 and 7, 2027. Decisions in April.",
-      "dates": "May 31 to July 23, 2027, in person, 40 hours a week. Orientation May 26 to 28, 2027. You can miss no more than 3 days.",
+      "deadlineNote": "Opened Nov 2, 2026. Due Jan 25, 2027. Recommendation letters due Feb 1, 2027. Interviews Mar 6 and 7, 2027. Decisions in April 2027.",
+      "dates": "June 7 to July 30, 2027, in person, 40 hours a week. Orientation June 2 to 4, 2027. You can miss no more than 3 days.",
       "eligibility": "Grade 11 students at a high school in the Greater St. Louis area of Missouri or Illinois. Must live in the St. Louis metro area. For students with no previous research experience.",
       "requirements": [
         "Online application with transcript",
@@ -222,13 +267,14 @@
       "deadlineStatus": "confirmed",
       "deadlineNote": "Open now. Closes Jan 26, 2027 at noon ET. References due Feb 2, 2027 at noon ET.",
       "dates": "Full time in summer 2027, between May 10 and Aug 31",
-      "eligibility": "High school seniors who turn 18 by Sept 30, 2027. If you are still 17 on June 1, 2027, your home must be within 40 miles of an NIH campus. U.S. citizen or permanent resident.",
+      "eligibility": "High school seniors who graduate before the internship and turn 18 by Sept 30, 2027. If you are still 17 on June 1, 2027, your home must be within 40 miles of an NIH campus. U.S. citizen or permanent resident.",
       "requirements": [
         "List of courses and grades",
         "CV or resume",
         "Personal statement",
         "Two references",
-        "Contact NIH researchers yourself to ask about a spot"
+        "Contact NIH researchers yourself to ask about a spot",
+        "Proof of health insurance"
       ],
       "link": "https://www.training.nih.gov/research-training/pb/sip/"
     },
@@ -246,7 +292,7 @@
       "eligibility": "Juniors or seniors, age 16, minimum 3.5 GPA",
       "requirements": [
         "Application",
-        "Two essays",
+        "Two required essays, plus one optional essay",
         "Two recommendation letters",
         "Transcript with fall 2026 grades",
         "Resume"
@@ -279,20 +325,18 @@
       "id": "utsw-inspiring-careers-2027",
       "name": "Inspiring Careers in Mental Health Internship",
       "host": "UT Southwestern Medical Center",
-      "location": "Online (Zoom)",
+      "location": "Online",
       "cost": "free",
       "costDetail": "No fee listed",
       "deadline": "2027-02-01",
       "deadlineStatus": "estimated",
-      "deadlineNote": "Estimated. UTSW's page says applications open in late September and are due in early February, but it does not give the 2027 date. Students are picked in March.",
+      "deadlineNote": "Estimated. UTSW's page says applications open in late September and are due in early February, but it does not give the 2027 date or an apply link. Students are picked in March.",
       "dates": "Two weeks in June 2027, online. The exact days are not on UTSW's program page.",
-      "eligibility": "Grades 9 to 12 in fall 2026; live in the U.S. (or on a U.S. military base or diplomatic post) during the program",
+      "eligibility": "Rising 10th, 11th and 12th graders and rising college freshmen. That means grades 9 to 12 in the 2026-27 school year.",
       "requirements": [
-        "Online application (finish it in one sitting)",
-        "Short essay (100 to 200 words)",
-        "Reference from your school counselor or homeschool administrator",
-        "No-felony statement and confidentiality agreement",
-        "Cameras on for all Zoom sessions"
+        "Personal essay on why you want to join",
+        "Recommendation from your school counselor or homeschool administrator",
+        "Statement that you have no felonies"
       ],
       "link": "https://utsouthwestern.edu/education/medical-school/departments/psychiatry/education-and-training/inspiring-careers.html"
     },
@@ -302,12 +346,12 @@
       "host": "Memorial Sloan Kettering Cancer Center",
       "location": "New York, NY",
       "cost": "free",
-      "costDetail": "Free, $1,200 stipend (housing not provided)",
+      "costDetail": "Free. $1,200 stipend for the summer. Housing and transportation not provided.",
       "deadline": "2027-02-05",
       "deadlineStatus": "confirmed",
-      "deadlineNote": "Opens Dec 1, 2026. Due 8:00 AM ET.",
+      "deadlineNote": "Opens Dec 1, 2026. All materials due by 8:00 AM ET on Feb 5, 2027.",
       "dates": "June 29 to Aug 20, 2027",
-      "eligibility": "Juniors, 16+ by June 2027, 3.5 science GPA, live within 25 miles of MSK in NY, NJ or CT",
+      "eligibility": "Juniors, 16+ by June 2027, 3.5 science GPA, live within 25 miles of MSK in NY, NJ or CT. Must be legally allowed to work in the U.S.",
       "requirements": [
         "Short essays",
         "One-page resume",
@@ -327,10 +371,12 @@
       "deadlineStatus": "estimated",
       "deadlineNote": "UCLA posts the real deadline in December 2026. Date based on last year.",
       "dates": "Summer 2027, dates posted in December",
-      "eligibility": "Rising juniors and seniors",
+      "eligibility": "Rising juniors and seniors currently enrolled in high school",
       "requirements": [
         "Online application",
-        "No transcript or recommendation letters needed"
+        "No transcript or recommendation letters needed",
+        "May include a virtual interview",
+        "Attend all sessions"
       ],
       "link": "https://eastonad.ucla.edu/about/neuroscience-high-school-scholars-program"
     },
@@ -341,9 +387,9 @@
       "location": "Oakland and San Francisco, CA",
       "cost": "free",
       "costDetail": "Free. $3,000 stipend for high school students. No housing provided.",
-      "deadline": "2027-02-14",
+      "deadline": "2027-02-12",
       "deadlineStatus": "estimated",
-      "deadlineNote": "Expected to open in December 2026. Due in February each year. The last posted deadline was Feb 14, 2025.",
+      "deadlineNote": "Expected to open in December 2026. The 2027 cycle will take both high school and college students. Due in February each year. The 2026 deadline was Feb 13, 2026.",
       "dates": "About 7 weeks, mid-June to end of July. 2026 ran Jun 15 to Jul 31.",
       "eligibility": "Grades 10 to 12, age 16+ by June 1. One year each of math and biology. U.S. citizen or permanent resident. Must be economically, educationally or medically disadvantaged.",
       "requirements": [
@@ -387,13 +433,14 @@
       "deadline": "2027-02-15",
       "deadlineStatus": "estimated",
       "deadlineNote": "Opens Oct 15. High school apps are due Feb 15 at 11:59 PM ET. The site does not list a year, so check before you apply.",
-      "dates": "At least 8 weeks, 40 hours a week. High schoolers start by the first full week of June.",
+      "dates": "At least 8 weeks, 40 hours a week. High schoolers start by the first full week of June. Everyone presents at an in-person research symposium in late July or early August.",
       "eligibility": "High school juniors and seniors, age 16+, GPA 3.0+. U.S. citizen, national or permanent resident.",
       "requirements": [
-        "Online application",
-        "Essay",
-        "Recommendations",
-        "Transcript"
+        "Online application in the STEP-UP Student Portal",
+        "Personal statement, 600 words max",
+        "Two letters of recommendation from academic references",
+        "Transcript with grades through December",
+        "Proof of health insurance and ID if accepted"
       ],
       "link": "https://niddk.nih.gov/research-funding/training-career-development/step-up/application-process-deadlines"
     },
@@ -416,6 +463,27 @@
         "Student orientation after acceptance"
       ],
       "link": "https://www.uhhospitals.org/for-clinicians/nursing/education-programs/uh-future-nurse-academy"
+    },
+    {
+      "id": "wfirm-research-exposure-2027",
+      "name": "4-Week Summer Research Exposure Program",
+      "host": "Wake Forest Institute for Regenerative Medicine",
+      "location": "Winston-Salem, NC",
+      "cost": "free",
+      "costDetail": "No program fee listed. No stipend listed. It is a commuter program.",
+      "deadline": "2027-02-15",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opens Jan 15, 2027. Closes Feb 15, 2027 at 5 PM ET. Decisions by Mar 22, 2027. Parts of the page still show 2026 dates. Go by the 2027 dates at the top.",
+      "dates": "June 21 to July 16, 2027. Mentors set the schedule. Last year it averaged 20 to 30 hours a week.",
+      "eligibility": "North Carolina high school students ages 16 to 18. Only 8 to 10 spots.",
+      "requirements": [
+        "Online application",
+        "Application packet forms",
+        "Signed agreement and parent consent form",
+        "Two teacher recommendation forms",
+        "Immunization records and TB skin test if selected"
+      ],
+      "link": "https://school.wakehealth.edu/Research/Institutes-and-Centers/Wake-Forest-Institute-for-Regenerative-Medicine/Education-and-Training/High-School-Summer-Research-Exposure-Program"
     },
     {
       "id": "stanford-simr-2027",
@@ -463,20 +531,42 @@
       "host": "University of New Mexico Health Sciences Center",
       "location": "Albuquerque and regional sites across New Mexico",
       "cost": "free",
-      "costDetail": "No program fee listed. $500 stipend when you finish the program.",
-      "deadline": "2027-02-26",
-      "deadlineStatus": "estimated",
-      "deadlineNote": "UNM says 2027 applications will open soon. The deadline is not posted yet. Last year applications were open Oct 1, 2025 to Feb 27, 2026, with decisions in early April.",
-      "dates": "Starts in June 2027 and runs about 2 to 3 weeks, plus a one-day orientation. Last year sessions ran between June 8 and June 24, 2026, weekdays 9 AM to 3 PM, depending on the site.",
+      "costDetail": "No program fee listed. Stipend when you finish the program. The amount is not posted.",
+      "deadline": "2027-02-28",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Summer 2027 applications are open now. Albuquerque applications are due Feb 28, 2027. Regional sites in the NE, NW, SE and SW regions, Santa Fe Indian School and Taos are due Apr 17, 2027.",
+      "dates": "A multi-week summer program plus a one-day orientation. Length depends on the site. 2027 dates not posted yet. In 2025 the Albuquerque session ran June 9 to June 20.",
       "eligibility": "New Mexico or Navajo Nation residents who are high school sophomores or juniors when they apply. GPA 2.5 or higher. Interest in a health career. Regional sites only take students from certain counties.",
       "requirements": [
         "Student application",
         "Short essay answers",
         "One recommendation form",
         "Attend the full program and orientation",
-        "Get to your site each day unless your site offers rides"
+        "Get to your site each day, or have internet for a virtual program"
       ],
       "link": "https://hsc.unm.edu/diversity/programs/community/academy.html"
+    },
+    {
+      "id": "mcw-aim-2027",
+      "name": "Apprenticeship in Medicine (AIM)",
+      "host": "Medical College of Wisconsin",
+      "location": "Milwaukee, WI",
+      "cost": "free",
+      "costDetail": "No program fee listed. Students get a stipend.",
+      "deadline": "2027-03-01",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "Applications open in late October or early November. MCW says they are due March 1 every year, so expect Mar 1, 2027. Interviews are usually during MPS spring break.",
+      "dates": "Six weeks, mid June to early August 2027. The AIM page lists a June 21 start. About 40 hours a week.",
+      "eligibility": "Rising juniors, rising seniors and June graduates, age 16 or older. Must attend a Milwaukee Public Schools, Milwaukee-area charter or private, or nearby suburban high school. Science and math GPA of 2.75 or higher. U.S. citizen or permanent resident.",
+      "requirements": [
+        "Online application",
+        "Parent or guardian permission",
+        "Official high school transcript as a PDF",
+        "Two online evaluations, one from a high school science teacher",
+        "Interview if selected",
+        "Attend all six weeks"
+      ],
+      "link": "https://www.mcw.edu/education/office-of-academic-pathways/summer-programs/aim"
     },
     {
       "id": "ashg-dna-day-2027",
@@ -484,15 +574,16 @@
       "host": "American Society of Human Genetics",
       "location": "Online",
       "cost": "free",
-      "costDetail": "No entry fee. In 2025, prizes were $1,000, $600 and $400, plus $100 for each honorable mention.",
+      "costDetail": "No entry fee. In 2026, winners got $1,000, $600 and $400.",
       "deadline": "2027-03-04",
       "deadlineStatus": "estimated",
-      "deadlineNote": "Due in early March each year. The 2026 contest closed Mar 4, 2026. 2027 details are not posted yet.",
+      "deadlineNote": "Due in early March each year. In 2026, entries opened Jan 9 and were due Mar 4, 2026. That deadline was later extended to Mar 8. 2027 details are not posted yet.",
       "dates": "Winners announced in late April.",
       "eligibility": "Grades 9 to 12, in the U.S. and other countries. One student per essay. Group essays are not accepted.",
       "requirements": [
         "Essay of 750 words or fewer, in English",
         "In-text citations and a reference list",
+        "If you use AI tools, note it in your citations",
         "A teacher or school official submits the essay, or a parent for homeschooled students"
       ],
       "link": "https://www.ashg.org/dna-day/"
@@ -506,11 +597,11 @@
       "costDetail": "Free; paid award if you finish; free transit (ORCA) card",
       "deadline": "2027-03-12",
       "deadlineStatus": "estimated",
-      "deadlineNote": "2027 details posted in November 2026. Last year closed March 13.",
-      "dates": "Eight weeks, late June to mid-August (full time)",
+      "deadlineNote": "Fred Hutch says 2027 details will be posted in November 2026. Not posted as of Nov 9, 2026. Estimate based on last year's deadline of Mar 13, 2026.",
+      "dates": "Eight weeks in summer, full time, up to 40 hours a week, Monday to Friday. In 2026 it ran June 22 to Aug 14.",
       "eligibility": "Rising seniors, 16+ by start; live in the Greater Seattle area; no out-of-state or international students",
       "requirements": [
-        "Online application with short essays (200 words each)",
+        "Online application with short essays, 200 words each. There were four in 2026.",
         "Two recommendations through the online form",
         "Transcript (PDF)",
         "Resume (PDF)",
@@ -524,19 +615,19 @@
       "host": "Johns Hopkins University",
       "location": "Baltimore, MD (live on campus)",
       "cost": "free",
-      "costDetail": "Free: tuition, housing, meals and travel covered; up to $2,400 need-based stipend",
+      "costDetail": "Free: tuition, housing, meals and travel to Baltimore covered. You can apply for a one-time need-based stipend.",
       "deadline": "2027-03-16",
       "deadlineStatus": "estimated",
-      "deadlineNote": "Applications open early 2027. Last year closed March 16.",
-      "dates": "Four weeks, late June to late July",
-      "eligibility": "10th or 11th graders, U.S. citizen or permanent resident, age 15 to 17",
+      "deadlineNote": "Not posted yet. Johns Hopkins posts application info on the program page about 6 months before the program starts. Date based on last year's March 16 deadline.",
+      "dates": "Four weeks, late June to late July. Summer 2026 ran June 29 to July 24.",
+      "eligibility": "10th or 11th graders. U.S. citizen or permanent resident. At least 15 on move-in day and under 18 on the last day of the program.",
       "requirements": [
         "Online application",
         "Two essays (250 and 150 words)",
         "One recommendation (math or science teacher or counselor)",
         "Official transcript sent by your school"
       ],
-      "link": "https://www.bme.jhu.edu/academics/pre-college/apply-to-ispeed-bme/"
+      "link": "https://www.bme.jhu.edu/academics/pre-college/why-ispeed/"
     },
     {
       "id": "stanford-smysp-2027",
@@ -588,7 +679,7 @@
       "dates": "Submissions open in mid January. Winners announced by the end of June.",
       "eligibility": "Grades 9 to 12 at a high school in the U.S. or a U.S. territory. Enter alone or in a team of exactly three. Cash prizes go to U.S. citizens and permanent residents.",
       "requirements": [
-        "Video up to 3 minutes long",
+        "Video 30 seconds to 3 minutes long, not counting credits",
         "Unlisted YouTube link",
         "Signed registration form, with a parent signature if under 18",
         "Signed release form for anyone else seen or heard in the video",
@@ -606,7 +697,7 @@
       "deadline": null,
       "deadlineStatus": "tba",
       "deadlineNote": "The 2026 application is closed. CDC says to check back in January 2027 for 2027 details.",
-      "dates": "One week in summer. In 2026 there were two sessions, one in June and one in July.",
+      "dates": "One week in summer, 8:45 AM to 4:00 PM each day. 2027 dates are not posted yet. In 2026 the two sessions were June 22 to 26 and July 20 to 24.",
       "eligibility": "Rising juniors and seniors. You must be 16 by the first day of camp.",
       "requirements": [
         "Application form from the camp FAQ page",
@@ -684,7 +775,7 @@
       "deadline": "2027-02-12",
       "deadlineStatus": "confirmed",
       "deadlineNote": "Opens Dec 7, 2026. Closes Feb 12, 2027.",
-      "dates": "Summer 2027. Program dates will be posted in November 2026.",
+      "dates": "Summer 2027. In 2026 it ran 8 weeks, full time, from Jun 18 to Aug 12. 2027 dates will be posted in November 2026.",
       "eligibility": "High school and college students, age 15+ by the first day. Age 16+ for labs with biological or chemical hazards. You can take part for up to two summers.",
       "requirements": [
         "Online application",
@@ -742,15 +833,15 @@
       "host": "Envision by WorldStrides",
       "location": "Several U.S. college campuses",
       "cost": "paid",
-      "costDetail": "Starts at $4,499 for the 8-day program. A $499 deposit holds your spot.",
+      "costDetail": "Starts at $4,499 for the 8-day program. You can hold your spot for $499 on the payment plan. The plan has a $99 nonrefundable deposit fee.",
       "deadline": null,
       "deadlineStatus": "rolling",
-      "deadlineNote": "First come, first served until sessions fill. Payment plans end Apr 30, 2027.",
+      "deadlineNote": "No set deadline. Spots are first come, first served until sessions fill. Payment plans are open Oct 1, 2026 to Apr 30, 2027. After that, you pay in full.",
       "dates": "8 days in June or July. 2027 dates not posted yet.",
       "eligibility": "High school students in grades 9 to 12",
       "requirements": [
         "Online enrollment form",
-        "$499 deposit to hold your spot",
+        "Pay in full, or hold your spot for $499 on the payment plan",
         "No nomination needed"
       ],
       "link": "https://www.envisionexperience.com/explore-our-programs/national-youth-leadership-forum-medicine"
