@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-16",
   "focus": "Medical and health programs for high school students",
   "programs": [
     {
@@ -124,11 +124,56 @@
       "eligibility": "High school juniors or seniors, 16+ by June 21, 2027; no GPA minimum",
       "requirements": [
         "Online application",
+        "Three short essays, about 250 words each",
         "One recommendation letter",
-        "Transcript showing high school enrollment",
+        "Unofficial transcript showing high school enrollment",
+        "CV or resume",
         "Virtual interview if selected"
       ],
       "link": "https://www.rockefeller.edu/outreach/ssrp/"
+    },
+    {
+      "id": "vicc-hero-2027",
+      "name": "Healthcare Experience and Research in Oncology (HERO) Summer Program",
+      "host": "Vanderbilt-Ingram Cancer Center",
+      "location": "Online",
+      "cost": "free",
+      "costDetail": "No fee listed. $500 stipend if you finish. Funded by the American Cancer Society.",
+      "deadline": "2027-01-04",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Open now. Closes Jan 4, 2027 at 11:59 PM CT. Decision emails go out in May 2027. 30 students will be accepted.",
+      "dates": "June 14 to 25, 2027. Online, Monday to Friday, 9:30 AM to 1:30 PM CT. Talks, panels and hands-on research activities with cancer doctors and scientists.",
+      "eligibility": "Rising high school sophomores, juniors or seniors in Tennessee or southern Kentucky. The FAQ also lists northern Alabama in the center's area. You must attend every day of the 2-week program.",
+      "requirements": [
+        "Online application",
+        "Statement of interest",
+        "Recommendation letter from a science teacher",
+        "Attend all sessions both weeks"
+      ],
+      "link": "https://vicc.org/research/programs/she"
+    },
+    {
+      "id": "ohsu-lilley-cure-2027",
+      "name": "Ted R. Lilley CURE Program",
+      "host": "OHSU Knight Cancer Institute",
+      "location": "Portland, OR (in person at the Marquam Hill or South Waterfront campus)",
+      "cost": "free",
+      "costDetail": "No program fee listed. $4,000 stipend and a TriMet pass for the whole program.",
+      "deadline": "2027-01-07",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opened Nov 6, 2026. All materials due Jan 7, 2027 at 11:59 PM PT. Late submissions are not accepted. Selections by the end of February 2027. Everyone hears back by early March.",
+      "dates": "June 21 to Aug 13, 2027. 8 weeks in a Knight Cancer Institute lab with a faculty mentor, up to 40 hours a week. Weekly seminars and a poster at the end. In person only.",
+      "eligibility": "Sophomores, juniors or seniors at an Oregon or Washington high school from an underrepresented or disadvantaged background. Examples: no parent or guardian with a bachelor's degree, free or reduced lunch for 2+ years, SNAP or TANF, foster care, houselessness, or growing up in a rural area. Must be 16 or older by June 21, 2027. GPA 2.75 or higher. At least one lab science class. Preference for students with 2 years of high school left and Portland Metro public school students.",
+      "requirements": [
+        "Online application in the 2027 CURE portal",
+        "List of biology and chemistry courses taken",
+        "High school transcript. Unofficial is OK.",
+        "Resume",
+        "Personal essay, 500 words max",
+        "Two references, one a science teacher or research mentor",
+        "Full COVID-19 vaccination to start, per OHSU policy"
+      ],
+      "link": "https://www.ohsu.edu/knight-cancer-institute/ted-r-lilley-cure-program"
     },
     {
       "id": "kp-launch-2027",
@@ -157,17 +202,18 @@
       "host": "University of Chicago Medicine and partners",
       "location": "Chicago and Urbana-Champaign, IL",
       "cost": "free",
-      "costDetail": "Free. Taxable $3,000 stipend. No housing or transportation provided.",
+      "costDetail": "Free. Taxable $4,000 stipend. No housing or transportation provided.",
       "deadline": "2027-01-11",
-      "deadlineStatus": "estimated",
-      "deadlineNote": "Not final yet. UChicago runs the program and has not posted 2027 dates. Its page still says applications are closed. The UIC Cancer Center site page lists Jan 11, 2027 and links a 2027 application form, but that page also shows last year's program dates. In 2025 it was due Jan 20, with both recommendations due the same day.",
-      "dates": "8 weeks, 35 to 40 hours a week. Usually the second full week of June to the first week of August. In 2026 it ran June 15 to Aug 7. 2027 dates not posted yet.",
-      "eligibility": "High school juniors or seniors when you apply. Age 16+ by the start of the program. Live in Illinois or Lake County, Indiana. Must commit to all 8 weeks.",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Due Jan 11, 2027 at 11:59 PM CT. Both recommendations are due the same day. Interviews at each site in February 2027. Decisions by Mar 1, 2027. You must commit by Mar 15, 2027.",
+      "dates": "June 14 to Aug 6, 2027. 8 weeks, 35 to 40 hours a week.",
+      "eligibility": "High school juniors or seniors when you apply. Age 16+ by June 14, 2027. Live in Illinois or Lake County, Indiana. Must commit to all 8 weeks. Up to 30 students are picked across all sites.",
       "requirements": [
         "One online application for all UChicago Cancer Center pathway programs",
         "GPA and transcript",
         "Four short answers (250 words each)",
         "Two recommendations, one from a teacher",
+        "Interview if you reach the second round",
         "To work at the UIC site, rank UIC as your first choice"
       ],
       "link": "https://www.uchicagomedicine.org/cancer/education-outreach/student-education/high-school-undergraduate/researchstart"
@@ -180,9 +226,9 @@
       "cost": "free",
       "costDetail": "Free volunteer program. No pay. Lunch meal card and free parking provided.",
       "deadline": "2027-01-15",
-      "deadlineStatus": "estimated",
-      "deadlineNote": "The 2027 dates are not posted yet. Last year the application was open only from Dec 15, 2025 to Jan 15, 2026, and late forms were not accepted. Expect about Dec 15, 2026 to Jan 15, 2027.",
-      "dates": "Summer 2027, about 6 weeks. Last year it ran July 7 to Aug 13, 2026, Monday to Thursday, 9 AM to 2 PM.",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Applications are open only from Dec 15, 2026 to Jan 15, 2027. Late submissions are not accepted.",
+      "dates": "July 6 to Aug 12, 2027, Monday to Thursday, 9 AM to 2 PM.",
       "eligibility": "Massachusetts residents over the age of 16 who are in 10th or 11th grade when they apply. Must have reliable transportation to Boston. Past participants cannot apply again.",
       "requirements": [
         "Online application",
@@ -217,6 +263,28 @@
       "link": "https://www.augusta.edu/cancer/education/summer-research-experience.php"
     },
     {
+      "id": "uab-prism-2027",
+      "name": "Pre-College Research Internship for Scholarship and Mentoring (PRISM)",
+      "host": "UAB Department of Surgery, University of Alabama at Birmingham",
+      "location": "Birmingham, AL (commute only)",
+      "cost": "free",
+      "costDetail": "No program fee listed. $1,000 stipend when you finish. You pay for your own meals, transportation, housing and parking. Remote parking is about $25 a month.",
+      "deadline": "2027-01-18",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opens Nov 16, 2026. Closes Jan 18, 2027 at 5 PM CT. The application and recommendation go through the program website. Faxed or emailed applications are not accepted. Finalists are interviewed in March. Decisions by the end of March 2027.",
+      "dates": "Tentative dates: June 8 to July 30, 2027. 8 weeks, full time, 8:30 AM to 4:30 PM, Monday to Friday. Mentored research project, research seminars and clinical experiences. Shadowing depends on hospital rules at the time. You present your research at the end.",
+      "eligibility": "Students who are high school juniors when they apply. U.S. citizens or permanent residents. Must be from a disadvantaged background as defined by NIH, or be the first in your family planning to go to college. No minimum GPA.",
+      "requirements": [
+        "Online application on the program website",
+        "Recommendation submitted on the program website",
+        "High school transcript. A scanned copy is OK.",
+        "Interview in March if you are a finalist",
+        "Reliable daily transportation to UAB",
+        "Research presentation at the end"
+      ],
+      "link": "https://www.uab.edu/medicine/surgery/prism"
+    },
+    {
       "id": "utsw-stars-srp-2027",
       "name": "STARS Summer Research Program for Students",
       "host": "UT Southwestern Medical Center",
@@ -225,7 +293,7 @@
       "costDetail": "Free. Students are paid a stipend. The amount is not listed.",
       "deadline": "2027-01-22",
       "deadlineStatus": "confirmed",
-      "deadlineNote": "Opens Nov 16, 2026. Closes Jan 22, 2027, per the STARS 2026-27 student calendar. The program page lists Nov 21 to Jan 20 with no year, so apply by Jan 20 to be safe. Required materials are not posted yet.",
+      "deadlineNote": "Opens Nov 16, 2026. Closes Jan 22, 2027. The apply link and required materials are not posted yet.",
       "dates": "8 weeks in summer 2027 in a biomedical research lab. Non-residential. No clinical or shadowing work. Exact dates not posted yet.",
       "eligibility": "High school juniors who are 16 or older by June 1, 2027. U.S. citizens, U.S. nationals or those eligible to work in the U.S. Aimed at North Texas students. Students with prior research experience are not eligible.",
       "requirements": [
@@ -308,15 +376,17 @@
       "costDetail": "Tuition-free. Day program only, no housing.",
       "deadline": "2027-02-01",
       "deadlineStatus": "estimated",
-      "deadlineNote": "Due Feb 1 each year. Foreign nationals apply by Jan 1. Applications are reviewed as they come in starting in November, so apply early.",
+      "deadlineNote": "Due Feb 1 each year. Applications are reviewed as they come in starting in November, so apply early.",
       "dates": "8 weeks, third week of June to second week of August",
-      "eligibility": "Age 16+ by the start date. Entering grade 10, 11 or 12. GPA 3.0+ or all A's and B's in math and science.",
+      "eligibility": "Age 16+ by the start date. Entering grade 10, 11 or 12. GPA 3.0+ or all A's and B's in math and science. Must be a U.S. citizen or permanent resident.",
       "requirements": [
         "Resume",
         "Unofficial transcript",
         "Personal statement",
         "Two references, one from a science or math teacher",
         "Proof of U.S. citizenship or permanent residence if selected",
+        "Copy of health insurance if selected",
+        "Working papers if under 18",
         "Parent consent, waiver and conduct forms"
       ],
       "link": "https://ritms.rutgers.edu/education-training/graduate-and-undergraduate-education-and-training/ritms-summer-research-program/"
@@ -329,16 +399,40 @@
       "cost": "free",
       "costDetail": "No fee listed",
       "deadline": "2027-02-01",
-      "deadlineStatus": "estimated",
-      "deadlineNote": "Estimated. UTSW's page says applications open in late September and are due in early February, but it does not give the 2027 date or an apply link. Students are picked in March.",
-      "dates": "Two weeks in June 2027, online. The exact days are not on UTSW's program page.",
-      "eligibility": "Rising 10th, 11th and 12th graders and rising college freshmen. That means grades 9 to 12 in the 2026-27 school year.",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Open now. Due Feb 1, 2027 at 11:59 PM CT. Students who are picked get an email by Mar 31, 2027.",
+      "dates": "Two weeks on Zoom, June 7 to 11 and June 14 to 18, 2027. Sessions run about 9 AM to 2 PM each day. Cameras must stay on during sessions.",
+      "eligibility": "Students in 9th, 10th, 11th or 12th grade in fall 2026. You must live in the U.S., or on a U.S. military base or diplomatic post, during the program.",
       "requirements": [
-        "Personal essay on why you want to join",
+        "Online application",
+        "Essay of about 100 to 200 words on why you want to join",
         "Recommendation from your school counselor or homeschool administrator",
         "Statement that you have no felonies"
       ],
       "link": "https://utsouthwestern.edu/education/medical-school/departments/psychiatry/education-and-training/inspiring-careers.html"
+    },
+    {
+      "id": "omrf-fleming-scholar-2027",
+      "name": "Sir Alexander Fleming Scholar Program",
+      "host": "Oklahoma Medical Research Foundation (OMRF)",
+      "location": "Oklahoma City, OK",
+      "cost": "free",
+      "costDetail": "No program fee listed. Paid $15.50 an hour if you finish the full program. Free dorm-style housing at Oklahoma City University if you live at least 40 miles from OMRF.",
+      "deadline": "2027-02-01",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Open now. Full application packet and recommendation letters due Feb 1, 2027 at 11:59 PM, submitted online or postmarked. One heading on the page says applications open Feb 1, but Feb 1, 2027 is the deadline. Late or incomplete packets are disqualified. Up to 25 applicants get virtual interviews in March. Interview status by early March.",
+      "dates": "8 weeks in June and July 2027, full time, about 40 hours a week. The page lists June 1 to July 23 with no year, so check exact dates. Bench research with a lab mentor and weekly seminars, then a written abstract and a short formal talk.",
+      "eligibility": "Oklahoma residents who are high school seniors graduating in May 2027. College freshmen, sophomores and juniors can also apply. Age 16 or older. U.S. citizen, permanent resident or unrestricted work authorization. H-4 visa holders are not eligible.",
+      "requirements": [
+        "Online application",
+        "Resume, 2 pages max",
+        "Personal statement, 750 words max",
+        "Unofficial high school transcript",
+        "2 to 3 recommendation letters, one from a STEM teacher",
+        "Virtual interview in March if selected",
+        "Commit to all 8 weeks"
+      ],
+      "link": "https://omrf.org/training-outreach/summer-scholars/"
     },
     {
       "id": "msk-hopp-2027",
@@ -429,7 +523,7 @@
       "host": "NIH / NIDDK",
       "location": "Research sites across the U.S.",
       "cost": "free",
-      "costDetail": "Free. Paid stipend. Housing is not provided.",
+      "costDetail": "Free. Stipend of up to $2,500 for high school students. The amount varies by site. Housing is not provided.",
       "deadline": "2027-02-15",
       "deadlineStatus": "estimated",
       "deadlineNote": "Opens Oct 15. High school apps are due Feb 15 at 11:59 PM ET. The site does not list a year, so check before you apply.",
@@ -512,18 +606,38 @@
       "location": "Palo Alto, CA",
       "cost": "free",
       "costDetail": "No tuition; $50 application fee (can be waived); $3,000 stipend if in need",
-      "deadline": "2027-02-23",
-      "deadlineStatus": "estimated",
-      "deadlineNote": "Based on last year, when it opened Jan 7 and closed Feb 23.",
-      "dates": "Seven weeks, early June to late July",
+      "deadline": "2027-02-22",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opens Jan 6, 2027 at 9 AM PT. Closes Feb 22, 2027 at 11:59 PM PT. Fee waiver requests are due Feb 21, 2027. Decisions come out in early April. The main program page lists Jan 7 as the open date.",
+      "dates": "June 7 to July 23, 2027. Seven weeks, 30 hours a week.",
       "eligibility": "Rising juniors and seniors from 7 Bay Area counties, 16+, GPA 3.0+",
       "requirements": [
         "Online application",
         "Resume",
         "One recommendation (science or math teacher)",
-        "Unofficial transcript"
+        "Unofficial transcript with fall 2026 grades"
       ],
       "link": "https://med.stanford.edu/pediatrics/education/pediatrics-internship-program.html"
+    },
+    {
+      "id": "jhu-ispeed-2027",
+      "name": "ISPEED in Biomedical Engineering",
+      "host": "Johns Hopkins University",
+      "location": "Baltimore, MD (live on campus)",
+      "cost": "free",
+      "costDetail": "Free: tuition, housing, meals and travel to Baltimore covered. You can apply for a one-time need-based stipend.",
+      "deadline": "2027-02-26",
+      "deadlineStatus": "estimated",
+      "deadlineNote": "Not posted yet. Johns Hopkins posts application info on the program page about 6 months before the program starts. Past official deadlines were Mar 1, 2024 and Feb 28, 2025, both on a Friday. The 2026 deadline is not shown on any official page. This estimate uses the last Friday in February to be safe.",
+      "dates": "Four weeks, late June to late July. Summer 2026 ran June 29 to July 24.",
+      "eligibility": "10th or 11th graders. U.S. citizen or permanent resident. At least 15 on move-in day and under 18 on the last day of the program.",
+      "requirements": [
+        "Online application",
+        "Two essays (250 and 150 words)",
+        "One recommendation (math or science teacher or counselor)",
+        "Official transcript sent by your school"
+      ],
+      "link": "https://www.bme.jhu.edu/academics/pre-college/why-ispeed/"
     },
     {
       "id": "unm-health-careers-academy-2027",
@@ -555,7 +669,7 @@
       "costDetail": "No program fee listed. Students get a stipend.",
       "deadline": "2027-03-01",
       "deadlineStatus": "estimated",
-      "deadlineNote": "Applications open in late October or early November. MCW says they are due March 1 every year, so expect Mar 1, 2027. Interviews are usually during MPS spring break.",
+      "deadlineNote": "The AIM page now links to the 2027 application. MCW says applications are due March 1 every year, so expect Mar 1, 2027. Interviews are usually during MPS spring break.",
       "dates": "Six weeks, mid June to early August 2027. The AIM page lists a June 21 start. About 40 hours a week.",
       "eligibility": "Rising juniors, rising seniors and June graduates, age 16 or older. Must attend a Milwaukee Public Schools, Milwaukee-area charter or private, or nearby suburban high school. Science and math GPA of 2.75 or higher. U.S. citizen or permanent resident.",
       "requirements": [
@@ -595,39 +709,19 @@
       "location": "Seattle, WA",
       "cost": "free",
       "costDetail": "Free; paid award if you finish; free transit (ORCA) card",
-      "deadline": "2027-03-12",
-      "deadlineStatus": "estimated",
-      "deadlineNote": "Fred Hutch says 2027 details will be posted in November 2026. Not posted as of Nov 9, 2026. Estimate based on last year's deadline of Mar 13, 2026.",
-      "dates": "Eight weeks in summer, full time, up to 40 hours a week, Monday to Friday. In 2026 it ran June 22 to Aug 14.",
+      "deadline": "2027-03-08",
+      "deadlineStatus": "confirmed",
+      "deadlineNote": "Opens Jan 11, 2027. Closes Mar 8, 2027 at 11:59 PM Pacific time. Both recommendation forms are also due Mar 8. You will hear back by mid-May.",
+      "dates": "Eight weeks in summer, full time, 40 hours a week, Monday to Friday. 2027 dates are not posted yet. In 2026 it ran June 22 to Aug 14.",
       "eligibility": "Rising seniors, 16+ by start; live in the Greater Seattle area; no out-of-state or international students",
       "requirements": [
-        "Online application with short essays, 200 words each. There were four in 2026.",
+        "Online application with four short essays, 200 words each",
         "Two recommendations through the online form",
         "Transcript (PDF)",
         "Resume (PDF)",
         "Zoom interview if selected"
       ],
       "link": "https://www.fredhutch.org/en/education-training/high-school-students/summer-high-school-internship-program.html"
-    },
-    {
-      "id": "jhu-ispeed-2027",
-      "name": "ISPEED in Biomedical Engineering",
-      "host": "Johns Hopkins University",
-      "location": "Baltimore, MD (live on campus)",
-      "cost": "free",
-      "costDetail": "Free: tuition, housing, meals and travel to Baltimore covered. You can apply for a one-time need-based stipend.",
-      "deadline": "2027-03-16",
-      "deadlineStatus": "estimated",
-      "deadlineNote": "Not posted yet. Johns Hopkins posts application info on the program page about 6 months before the program starts. Date based on last year's March 16 deadline.",
-      "dates": "Four weeks, late June to late July. Summer 2026 ran June 29 to July 24.",
-      "eligibility": "10th or 11th graders. U.S. citizen or permanent resident. At least 15 on move-in day and under 18 on the last day of the program.",
-      "requirements": [
-        "Online application",
-        "Two essays (250 and 150 words)",
-        "One recommendation (math or science teacher or counselor)",
-        "Official transcript sent by your school"
-      ],
-      "link": "https://www.bme.jhu.edu/academics/pre-college/why-ispeed/"
     },
     {
       "id": "stanford-smysp-2027",
@@ -836,7 +930,7 @@
       "costDetail": "Starts at $4,499 for the 8-day program. You can hold your spot for $499 on the payment plan. The plan has a $99 nonrefundable deposit fee.",
       "deadline": null,
       "deadlineStatus": "rolling",
-      "deadlineNote": "No set deadline. Spots are first come, first served until sessions fill. Payment plans are open Oct 1, 2026 to Apr 30, 2027. After that, you pay in full.",
+      "deadlineNote": "No deadline is posted. Spots are first come, first served, and sessions can fill early. Payment plans are open Oct 1, 2026 to Apr 30, 2027. After that, you pay in full.",
       "dates": "8 days in June or July. 2027 dates not posted yet.",
       "eligibility": "High school students in grades 9 to 12",
       "requirements": [
